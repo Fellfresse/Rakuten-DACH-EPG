@@ -2,7 +2,7 @@ name: Build EPG
 
 on:
   schedule:
-    - cron: '0 */8 * * *'
+    - cron: '0 */12 * * *'
   push:
 
 jobs:
@@ -31,8 +31,14 @@ jobs:
           pip install -r requirements.txt
 
       - name: execute py script
-        run: python generate.py
+        run: python generate_at.py
 
+      - name: execute py script
+        run: python generate_ch.py
+        
+      - name: execute py script
+        run: python generate_de.py
+        
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
@@ -46,3 +52,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
+
