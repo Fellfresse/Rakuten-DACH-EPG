@@ -1,7 +1,7 @@
 [![Build EPG](https://github.com/Fellfresse/Rakuten-DACH-EPG/actions/workflows/actions.yml/badge.svg)](https://github.com/Fellfresse/Rakuten-DACH-EPG/actions/workflows/actions.yml)
 
 ## About
-Provides a 6 Days XMLTV EPG for Rakuten DE's TV service, which is updated automatically every 12 hours.
+Provides a 6 Days XMLTV EPG for Rakuten DACH TV service, which is updated automatically every 12 hours.
 
 ## Usage
 Grab the XMLTV file from this link and paste it into your favorite IPTV client:
