@@ -1,11 +1,4 @@
 <tv generator-info-name="Fellfresse" generator-info="EPG/RakutenTV-CH">
-  <programme channel="abschnitt-40-rakuten-tv" start="20260828154320 +0200" stop="20260828163522 +0200">
-    <title lang="en">Abschnitt 40</title>
-    <sub-title lang="en">S4:E3 Bomben</sub-title>
-    <desc lang="en">In einer Einkaufspassage bedroht ein Kampfhund die Passanten. Kurz vor dem Abschuss des Hundes taucht der Besitzer auf, über den die Beamten auf die Spur krimineller Hundehalter kommen.</desc>
-    <category lang="en">Crime</category>
-    <category lang="en">Serien</category>
-  </programme>
   <programme channel="abschnitt-40-rakuten-tv" start="20260828163522 +0200" stop="20260828172708 +0200">
     <title lang="en">Abschnitt 40</title>
     <sub-title lang="en">S4:E4 Mädchen und Jungs</sub-title>
@@ -839,11 +832,6 @@
     <category lang="en">Crime</category>
     <category lang="en">Serien</category>
   </programme>
-  <programme channel="action-rakuten-tv" start="20260828145906 +0200" stop="20260828163429 +0200">
-    <title lang="en">Earthquake Underground</title>
-    <desc lang="en">Nach einem schweren Erdbeben, bei dem unter anderem ein Hotel überflutet wird, muss ein junger Architekt alle Widrigkeiten überwinden, um seine schwangere Freundin zu retten, bevor das Gebäude zusammenbricht.</desc>
-    <category lang="en">Filme</category>
-  </programme>
   <programme channel="action-rakuten-tv" start="20260828163429 +0200" stop="20260828182650 +0200">
     <title lang="en">Air Strike</title>
     <desc lang="en">Das actionreiche Kriegs-Epos über die Luftangriffe auf China während des Zweiten Weltkriegs lässt den Puls höherschlagen! Ein US-Colonel versucht, junge Piloten auszubilden, um den Luftraum gegen die Japaner zu verteidigen...</desc>
@@ -1163,16 +1151,6 @@
     <title lang="en">The Tiger - Legende einer Jagd</title>
     <desc lang="en">Korea 1925 unter japanischer Besatzung: Der Witwer Chun Man-duk, der als bester Jäger im Königreich Korea gilt, lebt mit seinem Sohn Seok zurückgezogen am Fuße der majestätischen Berge.</desc>
     <category lang="en">Filme</category>
-  </programme>
-  <programme channel="africanews-eng" start="20260828160000 +0200" stop="20260828163000 +0200">
-    <title lang="en">Africanews</title>
-    <desc lang="en">Africanews is the only independent national and international news channel from an African perspective. It reports breaking news from the continent, delivers unbiased reporting and is available on TV and digital platforms.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="africanews-eng" start="20260828163000 +0200" stop="20260828170000 +0200">
-    <title lang="en">Africanews</title>
-    <desc lang="en">Africanews is the only independent national and international news channel from an African perspective. It reports breaking news from the continent, delivers unbiased reporting and is available on TV and digital platforms.</desc>
-    <category lang="en">Nachrichten</category>
   </programme>
   <programme channel="africanews-eng" start="20260828170000 +0200" stop="20260828173000 +0200">
     <title lang="en">Africanews</title>
@@ -2228,12 +2206,6 @@
     <title lang="en">Africanews</title>
     <desc lang="en">Africanews is the only independent national and international news channel from an African perspective. It reports breaking news from the continent, delivers unbiased reporting and is available on TV and digital platforms.</desc>
     <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="aftershock-msa-mco-deu" start="20260828155241 +0200" stop="20260828164313 +0200">
-    <title lang="en">My Crazy Obsession</title>
-    <sub-title lang="en">S1:E9 Weihnachtssammlung</sub-title>
-    <desc lang="en">My Crazy Obsession: Christmas Collection nimmt Sie mit in das Leben extremer Sammler, die die Festtagsdekoration bis zum Äußersten getrieben haben. Für diese besessenen Sammler ist es das ganze Jahr über Weihnachten.</desc>
-    <category lang="en">Dokumentarfilm</category>
   </programme>
   <programme channel="aftershock-msa-mco-deu" start="20260828164313 +0200" stop="20260828170940 +0200">
     <title lang="en">My Crazy Obsession</title>
@@ -3504,18 +3476,6 @@
     <sub-title lang="en">S6:E5 Ältere Frauen/ Madonna</sub-title>
     <desc lang="en">"My Strange Addiction" porträtiert Süchtige, darunter Kyle, 31, der ausschließlich Frauen über 65 Jahren datet, und Adam, der darauf aus ist, Madonna zu werden.</desc>
     <category lang="en">Dokumentarfilm</category>
-  </programme>
-  <programme channel="akiba-anime" start="20260828155640 +0200" stop="20260828162501 +0200">
-    <title lang="en">Free!</title>
-    <sub-title lang="en">S01 : E08 Revanche bei der Lagenstaffel</sub-title>
-    <desc lang="en">Haruka, Makoto, Nagisa und Rei schwimmen ihre Einzelwettkämpfe! Danach schwimmen die vier Mitglieder des Schwimmclubs in der Staffel gegen ihren alten Freund Rin.</desc>
-    <category lang="en">Anime</category>
-  </programme>
-  <programme channel="akiba-anime" start="20260828162501 +0200" stop="20260828165326 +0200">
-    <title lang="en">Steins;Gate</title>
-    <sub-title lang="en">S01 : E17 Made in Complex</sub-title>
-    <desc lang="en">Okabe gelingt es endlich die Divergenz der Weltlinie zu verändern, doch auch das verhindert nicht den tragischen Tod eines Labormitgliedes. Kurisu stellt die Theorie auf, dass das Problem eventuell bei früheren D-Mails liegt.</desc>
-    <category lang="en">Anime</category>
   </programme>
   <programme channel="akiba-anime" start="20260828165326 +0200" stop="20260828172151 +0200">
     <title lang="en">Steins;Gate</title>
@@ -5150,11 +5110,6 @@
     <category lang="en">Asian</category>
     <category lang="en">Filme</category>
   </programme>
-  <programme channel="amc-stories" start="20260828154436 +0200" stop="20260828162501 +0200">
-    <title lang="en">Ride with Norman Reedus, Season 1, Episode 06, Florida Keys mit Peter Fonda</title>
-    <desc lang="en">Der Walking Dead-Star und Motorradfan Norman Reedus macht sich mit einem Kumpel auf die Reise, die Kultur und die Menschen in anderen Ländern kennenzulernen. Dabei kommen sie auch gern mal vom Weg ab. Gemeinsam mit Peter Fonda macht sich Norman auf in die Florida Keys. Sie sehen sich ein paar einzigartige Bikes an und treffen auf einzigartige Menschen.</desc>
-    <category lang="en">Serien</category>
-  </programme>
   <programme channel="amc-stories" start="20260828162501 +0200" stop="20260828170756 +0200">
     <title lang="en">Ride with Norman Reedus, Season 2, Episode 01, Spanien mit Jeffrey Dean Morgan</title>
     <desc lang="en">Der Walking Dead-Star und Motorradfan Norman Reedus macht sich mit einem Kumpel auf die Reise, die Kultur und die Menschen in anderen Ländern kennenzulernen. Dabei kommen sie auch gern mal vom Weg ab. Norman und sein Walking Dead-Kollege Jeffrey Dean Morgan fahren durch Spanien. Die Tour startet in Barcelona und endet beim Fallas-Fest in Valencia.</desc>
@@ -6035,18 +5990,6 @@
     <desc lang="en">Das hochwertige Martial-Arts-Drama Into the Badlands spielt in einer postapokalyptischen Zukunft, in der nur die Stärksten und Brutalsten überleben. Der Kampf der Witwe um Macht führt sie in ein episches Kräftemessen mit ihren Feinden, die sich gegen sie verbündet haben, während eine frühere Bedrohung wieder auftaucht.</desc>
     <category lang="en">Serien</category>
   </programme>
-  <programme channel="andromeda-deu" start="20260828151155 +0200" stop="20260828160135 +0200">
-    <title lang="en">Andromeda</title>
-    <sub-title lang="en">S03 : E01 Tunnel des Bösen</sub-title>
-    <desc lang="en">Nach 300 Jahren unfreiwilligen Kälteschlafes wird Captain Dylan Hunt, Commander des Raumschiffes Andromeda, mit einer ihm völlig fremden Welt konfrontiert: Die Vereinigung der Planeten, in deren Auftrag er unterwegs war, existiert nicht mehr. Statt dessen herrscht Krieg und Chaos. Captain Dylan Hunt und eine bunt zusammengewürfelte Raumschiffcrew setzen alles daran, wieder Ordnung zu schaffen und die galaxisweite Kooperation der Planeten zu erneuern - ein äußerst gefährliches Unternehmen!</desc>
-    <category lang="en">Serien</category>
-  </programme>
-  <programme channel="andromeda-deu" start="20260828160135 +0200" stop="20260828165119 +0200">
-    <title lang="en">Andromeda</title>
-    <sub-title lang="en">S03 : E02 Scherben bringen Glück</sub-title>
-    <desc lang="en">Nach 300 Jahren unfreiwilligen Kälteschlafes wird Captain Dylan Hunt, Commander des Raumschiffes Andromeda, mit einer ihm völlig fremden Welt konfrontiert: Die Vereinigung der Planeten, in deren Auftrag er unterwegs war, existiert nicht mehr. Statt dessen herrscht Krieg und Chaos. Captain Dylan Hunt und eine bunt zusammengewürfelte Raumschiffcrew setzen alles daran, wieder Ordnung zu schaffen und die galaxisweite Kooperation der Planeten zu erneuern - ein äußerst gefährliches Unternehmen!</desc>
-    <category lang="en">Serien</category>
-  </programme>
   <programme channel="andromeda-deu" start="20260828165119 +0200" stop="20260828174049 +0200">
     <title lang="en">Andromeda</title>
     <sub-title lang="en">S03 : E03 Die Undankbaren</sub-title>
@@ -6814,13 +6757,6 @@
     <sub-title lang="en">S04 : E10 Die Kronprinzessin</sub-title>
     <desc lang="en">Nach 300 Jahren unfreiwilligen Kälteschlafes wird Captain Dylan Hunt, Commander des Raumschiffes Andromeda, mit einer ihm völlig fremden Welt konfrontiert: Die Vereinigung der Planeten, in deren Auftrag er unterwegs war, existiert nicht mehr. Statt dessen herrscht Krieg und Chaos. Captain Dylan Hunt und eine bunt zusammengewürfelte Raumschiffcrew setzen alles daran, wieder Ordnung zu schaffen und die galaxisweite Kooperation der Planeten zu erneuern - ein äußerst gefährliches Unternehmen!</desc>
     <category lang="en">Serien</category>
-  </programme>
-  <programme channel="ard-plus-krimi" start="20260828151840 +0200" stop="20260828161315 +0200">
-    <title lang="en">Der Fahnder</title>
-    <sub-title lang="en">S08 : E03 Der Fahnder - S08 E03</sub-title>
-    <desc lang="en">Riemann trifft, nur scheinbar zufällig, seinen alten Ausbilder und Freund Otto Beck, der jetzt beim BKA arbeitet und Riemann überredet, ihn als Partner bei einer Undercover-Aktion zu unterstützen. Mischewskis eifersüchtiges Misstrauen gegenüber Beck scheint sich zu bestätigen, als Beck nach dem planmäßig verlaufenen Einsatz mit dem sichergestellten Kokain und dem Geld verschwindet. Die einzige Spur zu Beck ist Jasmin, seine Freundin. Riemann muss sich, Mischewski und nicht zuletzt Rick beweisen, dass er Beck zu recht vertraut und gerät so mit seinem Partner zwischen alle Fronten.</desc>
-    <category lang="en">Crime</category>
-    <category lang="en">Unterhaltung</category>
   </programme>
   <programme channel="ard-plus-krimi" start="20260828161315 +0200" stop="20260828170816 +0200">
     <title lang="en">Der Fahnder</title>
@@ -7657,18 +7593,6 @@
     <desc lang="en">Sorjonen und sein Team hatten entdeckt, dass das Sommerhaus der karelischen Gilde das "Puppenhaus" ist und machen dort eine Razzia. Dort ist aber niemand mehr. Lileqvist ist mit Katia im Wohnmobil geflohen. Sorjonen und Katias Mutter Lena liefern sich ein Wettrennen bei seiner Verfolgung. Lena ist ihm immer einen Schritt voraus und er lässt sie gewähren. Sie finden heraus, dass der Zahnarzt der Täter ist und Katia noch in seiner Gewalt hat. Sie vermuten, dass er sie am Ende zu Tode narkotisieren wird. Auch wird klar, das Mikael Ahola die Verbindung zwischen Lileqvist und der Stadtverwaltung sein muss. Der liefert aber dann die entscheidende Information, wohin Lileqvist sich zurückgezogen hat und die Ermittler können Katia retten</desc>
     <category lang="en">Crime</category>
     <category lang="en">Unterhaltung</category>
-  </programme>
-  <programme channel="ard-plus-lindenstrasse" start="20260828154812 +0200" stop="20260828162126 +0200">
-    <title lang="en">Lindenstraße - Staffel 22</title>
-    <sub-title lang="en">S22 : E02 Lindenstraße - S22 E02 - Krach</sub-title>
-    <desc lang="en">Mittlerweile kann Gabi sich nun wirklich keinen Reim mehr auf Brunos verdrießliche Stimmung machen.</desc>
-    <category lang="en">Serien</category>
-  </programme>
-  <programme channel="ard-plus-lindenstrasse" start="20260828162126 +0200" stop="20260828165428 +0200">
-    <title lang="en">Lindenstraße - Staffel 22</title>
-    <sub-title lang="en">S22 : E03 Lindenstraße - S22 E03 - Am Ende</sub-title>
-    <desc lang="en">„Es sieht so aus, als würden wir ihm nichts beweisen können“, klagt Nina, obwohl sie von Olli Klatt genau weiß, dass Seegers hinter den Katastrophen im Ehrlich Reisen steckt.</desc>
-    <category lang="en">Serien</category>
   </programme>
   <programme channel="ard-plus-lindenstrasse" start="20260828165428 +0200" stop="20260828172713 +0200">
     <title lang="en">Lindenstraße - Staffel 22</title>
@@ -9112,12 +9036,6 @@
     <title lang="en">Tod's Life</title>
     <desc lang="en">Das Mädchen von nebenan bringt einen Teenager, der mit einer Immunschwäche geboren wurde, dazu, seine keimfreie Blase verlassen zu wollen.</desc>
   </programme>
-  <programme channel="automotorsport-de" start="20260828150001 +0200" stop="20260828161001 +0200">
-    <title lang="en">Garagengold</title>
-    <desc lang="en">Info not available</desc>
-    <category lang="en">Lifestyle</category>
-    <category lang="en">Sport</category>
-  </programme>
   <programme channel="automotorsport-de" start="20260828161001 +0200" stop="20260828173001 +0200">
     <title lang="en">Die 7</title>
     <desc lang="en">Brandaktuelle Tests, Service Informationen, die schnellsten Sportwagen der Welt – alles Wissenswerte und Spannende rund ums Auto.</desc>
@@ -9850,10 +9768,6 @@
     <category lang="en">Lifestyle</category>
     <category lang="en">Sport</category>
   </programme>
-  <programme channel="ax-men-deu" start="20260828160000 +0200" stop="20260828170000 +0200">
-    <title lang="en">Ax Men - Die Holzfäller</title>
-    <category lang="en">Reality Shows</category>
-  </programme>
   <programme channel="ax-men-deu" start="20260828170000 +0200" stop="20260828180000 +0200">
     <title lang="en">Ax Men - Die Holzfäller</title>
     <category lang="en">Reality Shows</category>
@@ -10273,18 +10187,6 @@
   <programme channel="ax-men-deu" start="20260902010000 +0200" stop="20260902015959 +0200">
     <title lang="en">Ax Men - Die Holzfäller</title>
     <category lang="en">Reality Shows</category>
-  </programme>
-  <programme channel="baby-shark-tv" start="20260828155016 +0200" stop="20260828163034 +0200">
-    <title lang="en">Bebefinn Summer Time</title>
-    <sub-title lang="en">S01 : E01 Bebefinn Summer Time</sub-title>
-    <desc lang="en">Phew, it's a scorching hot summer day! Join the Bebefinn family as they beat the heat with water play, yummy ice cream, and sweet watermelon!</desc>
-    <category lang="en">Kinder</category>
-  </programme>
-  <programme channel="baby-shark-tv" start="20260828163034 +0200" stop="20260828165028 +0200">
-    <title lang="en">Bebefinn</title>
-    <sub-title lang="en">S04 : E09 Bebefinn 4 Ep9</sub-title>
-    <desc lang="en">Baby Finn Learns Something New Everyday with the Funn Family! Here comes another beautiful precious day of Finn, a Baby Shark lover just as our children, and his Family. Enjoy the daily life of the Bebefinn Family filled with joyful songs.</desc>
-    <category lang="en">Kinder</category>
   </programme>
   <programme channel="baby-shark-tv" start="20260828165028 +0200" stop="20260828171255 +0200">
     <title lang="en">Clay Baby Shark</title>
@@ -11528,12 +11430,6 @@
     <desc lang="en">Did you know that dinosaurs love to sing and dance?</desc>
     <category lang="en">Kinder</category>
   </programme>
-  <programme channel="bbc-top-gear-de" start="20260828154227 +0200" stop="20260828164304 +0200">
-    <title lang="en">Top Gear</title>
-    <sub-title lang="en">S09 : E03 Folge 3</sub-title>
-    <desc lang="en">Ein Mietwagen kommt nicht in Frage! Das Top Gear-Trio kauft sich für den gleichen Preis einen Gebrauchten.</desc>
-    <category lang="en">Unterhaltung</category>
-  </programme>
   <programme channel="bbc-top-gear-de" start="20260828164304 +0200" stop="20260828173646 +0200">
     <title lang="en">Top Gear</title>
     <sub-title lang="en">S06 : E05 Folge 5</sub-title>
@@ -12181,21 +12077,6 @@
     <sub-title lang="en">S05 : E08 Folge 8</sub-title>
     <desc lang="en">Die Top-Gear-Moderatoren nehmen an einem epischen Rennen durch die Schweizer Alpen teil.</desc>
     <category lang="en">Unterhaltung</category>
-  </programme>
-  <programme channel="bergblick-free" start="20260828155501 +0200" stop="20260828161254 +0200">
-    <title lang="en">Kanutour in den Femundsmarka Nationalpark</title>
-    <desc lang="en">16 Tage mit Kanu und Zelt durch die Wildnis Norwegens.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme channel="bergblick-free" start="20260828161254 +0200" stop="20260828162804 +0200">
-    <title lang="en">Toubkal - Auf den höchsten Berg Nordafrikas</title>
-    <desc lang="en">Winterwanderung auf den Toubkal in Marokko, dem höchsten Gipfel (4167m) im nördlichen Afrika</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme channel="bergblick-free" start="20260828162804 +0200" stop="20260828164001 +0200">
-    <title lang="en">Durch die Mongolei zu den Rentier Nomaden</title>
-    <desc lang="en">Komm mit uns zu den letzten Rentiernomaden der Mongolei in ein Leben fernab der Zivilisation.</desc>
-    <category lang="en">Lifestyle</category>
   </programme>
   <programme channel="bergblick-free" start="20260828164001 +0200" stop="20260828171001 +0200">
     <title lang="en">Höhenrausch: Making Driven #1</title>
@@ -13212,10 +13093,6 @@
     <desc lang="en">In dieser Serie geht es um die ultimative Frage: Warum tun Sportler, was sie tun? Warum riskieren Sportler alles, um etwas zu erreichen?</desc>
     <category lang="en">Lifestyle</category>
   </programme>
-  <programme channel="big-brother-classics-deu" start="20260828160000 +0200" stop="20260828170000 +0200">
-    <title lang="en">Big Brother Classics</title>
-    <category lang="en">Unterhaltung</category>
-  </programme>
   <programme channel="big-brother-classics-deu" start="20260828170000 +0200" stop="20260828180000 +0200">
     <title lang="en">Big Brother Classics</title>
     <category lang="en">Unterhaltung</category>
@@ -13636,12 +13513,6 @@
     <title lang="en">Big Brother Classics</title>
     <category lang="en">Unterhaltung</category>
   </programme>
-  <programme channel="billiards-tv" start="20260828145730 +0200" stop="20260828160555 +0200">
-    <title lang="en">77th World Championship</title>
-    <sub-title lang="en">S01 : E05 2025 77th WC_Qual - E.MERCKX (BEL) vs H.CATANO (COL)</sub-title>
-    <desc lang="en">Qualification match of the 77th World Championship 2025. E.Merckx (BEL) faces H.Catano (COL) in a crucial qualifying match as both players compete for a place in the next stage of the tournament.</desc>
-    <category lang="en">Sport</category>
-  </programme>
   <programme channel="billiards-tv" start="20260828160555 +0200" stop="20260828175555 +0200">
     <title lang="en">77th World Championship</title>
     <sub-title lang="en">S01 : E06 2025 77th WC_Qual - T.T.T.NGUYEN (VIE) vs C.ANGUITA (ESP)</sub-title>
@@ -14020,12 +13891,6 @@
     <desc lang="en">Watch Qualification - Dion NELIN (DEN) vs Choong Bok LEE (KOR) at the 2022 Ankara World Cup 3-Cushion with English commentary.</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme channel="bloomberg-originals-new" start="20260828140005 +0200" stop="20260828160005 +0200">
-    <title lang="en">Bloomberg Originals</title>
-    <desc lang="en">Bloomberg Originals</desc>
-    <category lang="en">Dokumentarfilm</category>
-    <category lang="en">Nachrichten</category>
-  </programme>
   <programme channel="bloomberg-originals-new" start="20260828160005 +0200" stop="20260828180005 +0200">
     <title lang="en">Bloomberg Originals</title>
     <desc lang="en">Bloomberg Originals</desc>
@@ -14343,10 +14208,6 @@
     <desc lang="en">Bloomberg Originals</desc>
     <category lang="en">Dokumentarfilm</category>
     <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="bloomberg-tv-plus" start="20260828160004 +0200" stop="20260828170004 +0200">
-    <title lang="en">Bloomberg TV+</title>
-    <desc lang="en">Bloomberg TV+ UHD delivers Live 24x7 global business and markets news, data, analysis, and stories from Bloomberg News and Businessweek – available in a 4K ultra high definition (UHD) viewing experience.</desc>
   </programme>
   <programme channel="bloomberg-tv-plus" start="20260828170004 +0200" stop="20260828180004 +0200">
     <title lang="en">Bloomberg TV+</title>
@@ -14767,11 +14628,6 @@
   <programme channel="bloomberg-tv-plus" start="20260902010004 +0200" stop="20260902015958 +0200">
     <title lang="en">Bloomberg TV+</title>
     <desc lang="en">Bloomberg TV+ UHD delivers Live 24x7 global business and markets news, data, analysis, and stories from Bloomberg News and Businessweek – available in a 4K ultra high definition (UHD) viewing experience.</desc>
-  </programme>
-  <programme channel="bronco" start="20260828144217 +0200" stop="20260828163514 +0200">
-    <title lang="en">Mörder des Klans</title>
-    <desc lang="en">Nach einem Raubzug trifft sich die Hogan-Bande auf einer Ranch, um auf die Beute zu warten, die Hogans Freundin Daisy vorbeibringen soll. Plötzlich taucht auch noch ein mysteriöser Fremder namens John Webb auf, der ebenfalls einen Anteil haben möchte. Es kommt zu einer großen Auseinandersetzung bei der es fast keine Überlebenden gibt.</desc>
-    <category lang="en">Filme</category>
   </programme>
   <programme channel="bronco" start="20260828163514 +0200" stop="20260828170441 +0200">
     <title lang="en">Mein Freund Winnetou</title>
@@ -15254,18 +15110,6 @@
     <title lang="en">Pistoleros</title>
     <desc lang="en">Actionreiches Westernkino von Shaky González auf Netzkino:Gangsterboss Frank hat angeblich kurz vor seiner Verhaftung einen Millionschatz versteckt. Der Weg zu den 5 Millionen ist auf dem Tattoo einer schönen Stripperin zu finden und schon bald jagt in diesem modernen Western jeder Gangster dem Schatz nach. In der Hitze Kopenhagens räumen sich die Pistoleros in harten Kämpfen uns blutigen „shoot outs“ gegenseitig aus dem Weg, … – aber wo zur Hölle ist die Kohle?</desc>
     <category lang="en">Filme</category>
-  </programme>
-  <programme channel="c-drama-now" start="20260828151545 +0200" stop="20260828160710 +0200">
-    <title lang="en">A Better Life</title>
-    <sub-title lang="en">S1:E10 Episode 10</sub-title>
-    <desc lang="en">Sous pression, le duo transforme un conflit familial en une négociation réussie, signant ainsi leur premier contrat important.</desc>
-    <category lang="en">Serien</category>
-  </programme>
-  <programme channel="c-drama-now" start="20260828160710 +0200" stop="20260828165835 +0200">
-    <title lang="en">A Better Life</title>
-    <sub-title lang="en">S1:E11 Episode 11</sub-title>
-    <desc lang="en">Des désaccords sur la répartition des gains poussent Xue Xiaozhou à envisager la rupture du contrat, avant une tentative de réconciliation.</desc>
-    <category lang="en">Serien</category>
   </programme>
   <programme channel="c-drama-now" start="20260828165835 +0200" stop="20260828175000 +0200">
     <title lang="en">A Better Life</title>
@@ -16024,16 +15868,6 @@
     <sub-title lang="en">S1:E13 Épisode 13</sub-title>
     <desc lang="en">Yifan en formation artistique. Liu Jing, cancer du sein, le cache à Yangyang. Song s'oppose à la passion d'Yingzi pour l'astronomie. Tensions.</desc>
     <category lang="en">Serien</category>
-  </programme>
-  <programme channel="car-city-adventures-de" start="20260828153332 +0200" stop="20260828161033 +0200">
-    <title lang="en">Tiny Trucks</title>
-    <desc lang="en">Es gibt nichts, was dieses Team nicht aufbauen kann! Begleiten Sie Charlie den Kranich, Billy den Bulldozer und Ed den Bagger bei der Reparatur von Car City.</desc>
-    <category lang="en">Kinder</category>
-  </programme>
-  <programme channel="car-city-adventures-de" start="20260828161033 +0200" stop="20260828164910 +0200">
-    <title lang="en">Tom's Car Wash</title>
-    <desc lang="en">Tom liebt es, sich um seine Freunde zu kümmern. Sie können sich immer darauf verlassen, dass er sie in seine Waschanlage abschleppt, aus der sie garantiert mit glänzenden Augen herauskommen!</desc>
-    <category lang="en">Kinder</category>
   </programme>
   <programme channel="car-city-adventures-de" start="20260828164910 +0200" stop="20260828172858 +0200">
     <title lang="en">Tom's Paint Shop</title>
@@ -16879,18 +16713,6 @@
     <title lang="en">Monster Town</title>
     <desc lang="en">Triff die Monster Trucks, eine Bande riesiger, hart arbeitender Autos, die sich zusammenschließen, um ihren Freunden und der Gemeinschaft in Monster City zu helfen.</desc>
     <category lang="en">Kinder</category>
-  </programme>
-  <programme channel="cgtn" start="20260828153001 +0200" stop="20260828160001 +0200">
-    <title lang="en">The Hub With Wang Guan</title>
-    <desc lang="en">The Hub with Wang Guan covers hot-button geopolitical and economic issues, as well as interesting stories and trends in culture, education, technology and lifestyle. It aims to connect people, cultures and societies across the East and the West. The program features dynamic designs, fast pace and rich visuals to keep viewers engaged.  It also makes use of trending topics online, while focusing on what’s relevant in China and the world.</desc>
-    <category lang="en">Asian</category>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="cgtn" start="20260828160001 +0200" stop="20260828163001 +0200">
-    <title lang="en">The World Today</title>
-    <desc lang="en">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="en">Asian</category>
-    <category lang="en">Nachrichten</category>
   </programme>
   <programme channel="cgtn" start="20260828163001 +0200" stop="20260828170001 +0200">
     <title lang="en">World Insight with Tian Wei</title>
@@ -17996,12 +17818,6 @@
     <category lang="en">Asian</category>
     <category lang="en">Nachrichten</category>
   </programme>
-  <programme channel="cgtn-documentary" start="20260828153001 +0200" stop="20260828160001 +0200">
-    <title lang="en">Humanities and Geography</title>
-    <desc lang="en">A strand devoted to the nature and wildlife of China, the people who lived alongside them, and the great and diverse landscapes with which they all contend.</desc>
-    <category lang="en">Asian</category>
-    <category lang="en">Dokumentarfilm</category>
-  </programme>
   <programme channel="cgtn-documentary" start="20260828160001 +0200" stop="20260828170001 +0200">
     <title lang="en">Living China</title>
     <desc lang="en">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.</desc>
@@ -18836,11 +18652,6 @@
     <category lang="en">Asian</category>
     <category lang="en">Dokumentarfilm</category>
   </programme>
-  <programme channel="comedy-rakuten-tv" start="20260828144150 +0200" stop="20260828164451 +0200">
-    <title lang="en">The Broken Hearts Gallery</title>
-    <desc lang="en">Was wäre, wenn Sie aus jeder Beziehung, in der Sie jemals waren, ein Souvenir gerettet hätten? Die einzigartige Lucy (Geraldine Viswanathan), einer Kunstgalerie-Assistentin um die 20, die in New York City lebt ist zufällig auch eine emotionaler Hamster.</desc>
-    <category lang="en">Filme</category>
-  </programme>
   <programme channel="comedy-rakuten-tv" start="20260828164451 +0200" stop="20260828182803 +0200">
     <title lang="en">Kids In America</title>
     <desc lang="en">Eine Gruppe von Schülern an der Booker High School schließt sich zusammen, um es mit der Rektorin Donna Weller aufzunehmen. Diese hält nicht besonders viel von freier Meinungsäußerung, sie fordert Disziplin und Ordnung, und nimmt die Kampfansage an.</desc>
@@ -19160,18 +18971,6 @@
     <title lang="en">Die Hochzeit des Jahres</title>
     <desc lang="en">Die ehrgeizige Hochzeitsplanerin Sarah, bekommt den ultimativen Auftrag die Promi-Hochzeit des Jahres zu organisieren, in nur zwei Wochen! Wie es der Zufall will, ist der Bruder des Bräutigams, David, Sarahs große Liebe von früher...</desc>
     <category lang="en">Filme</category>
-  </programme>
-  <programme channel="comedy-shows-ger" start="20260828150930 +0200" stop="20260828161645 +0200">
-    <title lang="en">Elton vs Simon</title>
-    <sub-title lang="en">S03 : E03 Folge 3</sub-title>
-    <desc lang="en">Diesmal wird es feuchtfröhlich für Elton und Simon Gosejohann: Wer kann nach einem Kneipenabend seinen eigenen Promillegehalt besser einschätzen? Außerdem müssen die beiden Comedians zeigen, wer der bessere Spiderman ist. Elton und Simon kennen in ihrem niemals endenden Konkurrenzkampf keine Gnade. Denn sie wissen genau: nur dem Gewinner gebührt Ruhm und Ehre - den Verlierer dagegen erwartet eine Strafe, die der Gewinner sich ausgedacht hat. Das kann bei den Beiden nur Böse enden!</desc>
-    <category lang="en">Unterhaltung</category>
-  </programme>
-  <programme channel="comedy-shows-ger" start="20260828161645 +0200" stop="20260828164314 +0200">
-    <title lang="en">Axel</title>
-    <sub-title lang="en">S02 : E04 Das Konzert</sub-title>
-    <desc lang="en">Axel und seine Kumpel Basti und Bong bereiten sich auf die Ankunft eines brasilianischen Au-pair-Mädchens vor.</desc>
-    <category lang="en">Unterhaltung</category>
   </programme>
   <programme channel="comedy-shows-ger" start="20260828164314 +0200" stop="20260828170919 +0200">
     <title lang="en">Axel</title>
@@ -20066,16 +19865,6 @@
     <sub-title lang="en">S01 : E04 LUKE! Die Greatnightshow_0104</sub-title>
     <desc lang="en">In dieser Ausgabe steuert Luke Robin am Flughafen fern, crasht mit Oliver Korittke eine Theateraufführung und bringt Ava Max Deutsch bei. Und dann kommen auch noch Rea Garvey und sein unbestechlicher The-Voice-Schützling Erwin Kintop zu Besuch!</desc>
     <category lang="en">Unterhaltung</category>
-  </programme>
-  <programme channel="cop-stories-schnell-ermittelt" start="20260828151845 +0200" stop="20260828160350 +0200">
-    <title lang="en">Schnell Ermittelt - Elena Ruggenberger</title>
-    <desc lang="en">Ein Mann gesteht nachts den Mord an seiner Frau Elena, widerruft jedoch. Angelika und Franitschek ermitteln im Schlaflabor, stoßen auf fragwürdige Beziehungen. Auch der getrennte Ehemann bleibt verdächtig. Privat drängt Stefan auf mehr Familienidylle.</desc>
-    <category lang="en">Serien</category>
-  </programme>
-  <programme channel="cop-stories-schnell-ermittelt" start="20260828160350 +0200" stop="20260828164849 +0200">
-    <title lang="en">Schnell Ermittelt - Lia Pollak</title>
-    <desc lang="en">Soap-Star Lia Pollak wird bei Dreharbeiten erschossen - die Requisitenwaffe war echt. Angelika und Franitschek tauchen in Intrigen von Kollegen, Regisseur und Produzent ein. Annas Freilassung mangels Beweisen bringt Angelika erneut in Rage.</desc>
-    <category lang="en">Serien</category>
   </programme>
   <programme channel="cop-stories-schnell-ermittelt" start="20260828164849 +0200" stop="20260828173001 +0200">
     <title lang="en">Schnell Ermittelt - Gabrielle Mimhofer</title>
@@ -21570,10 +21359,6 @@
     <category lang="en">Crime</category>
     <category lang="en">Serien</category>
   </programme>
-  <programme channel="crime-scene-tv-deu" start="20260828160000 +0200" stop="20260828170000 +0200">
-    <title lang="en">Crime Scene TV</title>
-    <category lang="en">Crime</category>
-  </programme>
   <programme channel="crime-scene-tv-deu" start="20260828170000 +0200" stop="20260828180000 +0200">
     <title lang="en">Crime Scene TV</title>
     <category lang="en">Crime</category>
@@ -21992,16 +21777,6 @@
   </programme>
   <programme channel="crime-scene-tv-deu" start="20260902010000 +0200" stop="20260902015959 +0200">
     <title lang="en">Crime Scene TV</title>
-    <category lang="en">Crime</category>
-  </programme>
-  <programme channel="crimify" start="20260828151501 +0200" stop="20260828160001 +0200">
-    <title lang="en">Grantchester - (S1E4) Mann und Frau und Mann</title>
-    <desc lang="en">Sidney kann Marion Taylor aus ihrem brennenden Haus retten. Kurz darauf wird ihr Ehemann Dominic erstochen aufgefunden.</desc>
-    <category lang="en">Crime</category>
-  </programme>
-  <programme channel="crimify" start="20260828160001 +0200" stop="20260828164501 +0200">
-    <title lang="en">Grantchester - (S1E5) Reue und Rache</title>
-    <desc lang="en">In London werden Sidney und Geordie Zeugen in einem Mordfall. Claudette, die Tochter des Nachtclubbesitzers Archie, wurde getötet.</desc>
     <category lang="en">Crime</category>
   </programme>
   <programme channel="crimify" start="20260828164501 +0200" stop="20260828173001 +0200">
@@ -22628,12 +22403,6 @@
     <title lang="en">Ripper Street - (S1E8) Wozu die Mühe?</title>
     <desc lang="en">Nach der Inhaftierung Captain Jacksons, droht die „H Division“ auseinanderzubrechen. Inspector Reid ist von der Unschuld seines Kollegen überzeugt.</desc>
     <category lang="en">Crime</category>
-  </programme>
-  <programme channel="curiosity-now-de" start="20260828152307 +0200" stop="20260828161906 +0200">
-    <title lang="en">Knochenjobs</title>
-    <sub-title lang="en">S02 : E11 Unter Druck und Spannung</sub-title>
-    <desc lang="en">LKW-Pannenhelfer Stephan Lommatzsch bekommt einen seltenen Auftrag: Auf einer Schnellstraße ist ein Bagger beim Verladen auf den LKW umgekippt. Und solange das Fahrzeug auf der Straße liegt, muss die Straße gesperrt bleiben. Lommatzsch muss bei der Bergung sorgfältig arbeiten, und darf sich weder von genervten Autofahrern noch vom gestressten Chef der Baufirma aus der Ruhe bringen lassen.</desc>
-    <category lang="en">Dokumentarfilm</category>
   </programme>
   <programme channel="curiosity-now-de" start="20260828161906 +0200" stop="20260828171454 +0200">
     <title lang="en">Knochenjobs</title>
@@ -23572,16 +23341,6 @@
     <sub-title lang="en">S01 : E04 Die Katzen von Oregon</sub-title>
     <desc lang="en">Drohnenpilot Doug Thron ist mit der Infrarotkamera auf Mission zur Rettung von Tieren in Not. Er und sein Team begeben sich in den US-Bundesstaat Oregon, nachdem dort ein Waldbrand gewütet hat. Zusammen mit der Tierschutzaktivistin Shannon Ray macht sich Doug auf die Suche nach hilflosen Katzen, die bei der Evakuierung des Brandgebietes zurückgelassen wurden.</desc>
     <category lang="en">Dokumentarfilm</category>
-  </programme>
-  <programme channel="daystar-eng" start="20260828153001 +0200" stop="20260828160001 +0200">
-    <title lang="en">Miracle Word Today with Marilyn Hickey</title>
-    <desc lang="en">Biblical teaching, inspirational guests, and classic messages from Marilyn Hickey meant to help viewers experience the transforming power of God's Word.</desc>
-    <category lang="en">Religion</category>
-  </programme>
-  <programme channel="daystar-eng" start="20260828160001 +0200" stop="20260828163001 +0200">
-    <title lang="en">Prophecy Live</title>
-    <desc lang="en">Joseph Z's faith-filled journalism and Bible teaching for the Last Days will provide prophetic insights and predictions of global events.</desc>
-    <category lang="en">Religion</category>
   </programme>
   <programme channel="daystar-eng" start="20260828163001 +0200" stop="20260828170001 +0200">
     <title lang="en">Larry &amp; Tiz Huch</title>
@@ -24563,16 +24322,6 @@
     <desc lang="en">NFL players Daniel Thomas, Andre Cisco, and Tyson Campbell share how Jesus transformed their lives and their vision to see lives changed through the Gospel.</desc>
     <category lang="en">Religion</category>
   </programme>
-  <programme channel="daystar-spa" start="20260828153001 +0200" stop="20260828160001 +0200">
-    <title lang="en">Dios de Milagros</title>
-    <desc lang="en">Experimenta el poder sanador de Dios, con las palabras ungidas del pastor Hernán Castaño en "Dios de Milagros". ¡Desata el mover de Dios en tu familia!</desc>
-    <category lang="en">Religion</category>
-  </programme>
-  <programme channel="daystar-spa" start="20260828160001 +0200" stop="20260828163001 +0200">
-    <title lang="en">Michael A. Youssef</title>
-    <desc lang="en">Dr. Michael Youssef, fundador de la Iglesia de los Apósteles en Atlanta, Georgia, entrega un mensaje poderoso e inspirador sobre la palabra de Dios.</desc>
-    <category lang="en">Religion</category>
-  </programme>
   <programme channel="daystar-spa" start="20260828163001 +0200" stop="20260828170001 +0200">
     <title lang="en">A Toda Luz</title>
     <desc lang="en">¿Te falta ánimo o quieres crecer en tu fe? A Toda Luz te ofrece risas, verdad y esperanza con voces dinámicas y temas que te inspiran y te acercan a Dios.</desc>
@@ -25503,12 +25252,6 @@
     <desc lang="en">Disfruta de impresionantes escenas de muchas de las creaciones milagrosas de Dios.</desc>
     <category lang="en">Religion</category>
   </programme>
-  <programme channel="ddr-tv" start="20260828153501 +0200" stop="20260828165001 +0200">
-    <title lang="en">Polizeiruf 110 - Verlockung</title>
-    <desc lang="en">Das Ehepaar Seidel erfährt von ihrem Sohn, dass er eine Straftat begangen hat. Aus Liebe zu ihrem Sohn versuchen sie, diese Straftat zu vertuschen und Sven rauszuhalten. Sven Seidel hatte in einer Kurzschlussreaktion staatliche Gelder unterschlagen...</desc>
-    <category lang="en">Dokumentarfilm</category>
-    <category lang="en">Serien</category>
-  </programme>
   <programme channel="ddr-tv" start="20260828165001 +0200" stop="20260828174501 +0200">
     <title lang="en">Märkische Chronik - S01E02 Ein Unwetter braut sich zusammen (1939)</title>
     <desc lang="en">Teil 2 der 18-tlg. Chronik des Fernsehens der DDR (1983/ 1989) über die Geschichte eines märkischen Dorfes und seiner Bewohner in den Jahren 1939 bis 1960.</desc>
@@ -26403,11 +26146,6 @@
     <desc lang="en">Ein märkisches Dorf in der Nachkriegszeit. Anna Drews – von allen nur Anne genannt – wird Bürgermeisterin des Ortes. Ihr aus der Kriegsgefangenschaft heimgekehrter Jugendfreund Jupp kann die neue berufliche Tätigkeit seiner Freundin nicht akzeptieren und fordert sie auf, das Amt niederzulegen. Einen Feind hat Anne in ihrem Amtsvorgänger, dem Großbauern Lehmkuhl. Als Anne trotz fehlender Genehmigung einen Schulneubau im Dorf umsetzt, informiert Lehmkuhl den Landrat. Anne droht die Absetzung als Bürgermeisterin.</desc>
     <category lang="en">Filme</category>
   </programme>
-  <programme channel="deluxe-deutschpop" start="20260828150001 +0200" stop="20260828160001 +0200">
-    <title lang="en">Schlagermix</title>
-    <desc lang="en">Schlager auf Schlager, der Mix zum Durchstarten!</desc>
-    <category lang="en">Musik</category>
-  </programme>
   <programme channel="deluxe-deutschpop" start="20260828160001 +0200" stop="20260828170001 +0200">
     <title lang="en">Schlager Total</title>
     <desc lang="en">Die geballte Ladung Schlagerhits.</desc>
@@ -26936,11 +26674,6 @@
   <programme channel="deluxe-deutschpop" start="20260902010001 +0200" stop="20260902020000 +0200">
     <title lang="en">Nachtexpress</title>
     <desc lang="en">Kommt gut durch die Nacht mit euren Stars!</desc>
-    <category lang="en">Musik</category>
-  </programme>
-  <programme channel="deluxe-lounge-hd" start="20260828155001 +0200" stop="20260828165001 +0200">
-    <title lang="en">Classic Lounge - Unter Wasser</title>
-    <desc lang="en">Die Classic Lounge ermöglicht es zu genießen und dabei zu entspannen.</desc>
     <category lang="en">Musik</category>
   </programme>
   <programme channel="deluxe-lounge-hd" start="20260828165001 +0200" stop="20260828175001 +0200">
@@ -28122,16 +27855,6 @@
     <title lang="en">Borders of Love</title>
     <desc lang="en">Hanna und Peter sind ein Paar. Sie lieben sich. Bedingungslos. Dennoch scheint ihnen ihre Beziehung nicht mehr aufregend genug. Irgendetwas fehlt.</desc>
     <category lang="en">Filme</category>
-  </programme>
-  <programme channel="euronews-live-deu" start="20260828160000 +0200" stop="20260828163000 +0200">
-    <title lang="en">Euronews LIVE</title>
-    <desc lang="en">Europas führender internationaler Nachrichtensender. Kostenlose Nachrichten rund um die Uhr bei Rakuten TV.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="euronews-live-deu" start="20260828163000 +0200" stop="20260828170000 +0200">
-    <title lang="en">Euronews LIVE</title>
-    <desc lang="en">Europas führender internationaler Nachrichtensender. Kostenlose Nachrichten rund um die Uhr bei Rakuten TV.</desc>
-    <category lang="en">Nachrichten</category>
   </programme>
   <programme channel="euronews-live-deu" start="20260828170000 +0200" stop="20260828173000 +0200">
     <title lang="en">Euronews LIVE</title>
@@ -29528,30 +29251,6 @@
     <desc lang="en">Kiew 1941. Ljudmila Pawlitschenko ist noch Studentin, als die deutsche Wehrmacht unter dem Decknamen Unternehmen Barbarossa die Sowjetunion angreift. Bald schon steht die junge Frau mit der Waffe in der Hand an vorderster Front. Verehrt und gefürchtet als Lady Death steigt sie zur erfolgreichsten und kaltblütigsten Scharfschützin des Zweiten Weltkriegs auf: 309 Soldaten sterben durch ihre Kugeln. Ihr Mut und ihre Zielgenauigkeit machen Ljudmila über die Grenzen ihres Landes hinaus zu einer Legende und ihre herausragende Tapferkeit führt sie bis auf die politische Bühne des Weißen Hauses. Doch die Unmenschlichkeit des Krieges fordert auch bittere Opfer von Ljudmila und ihre Berühmtheit bringt sie in tödliche Gefahr…</desc>
     <category lang="en">Filme</category>
   </programme>
-  <programme channel="family-rakuten-tv" start="20260828154825 +0200" stop="20260828161118 +0200">
-    <title lang="en">The Daltons</title>
-    <sub-title lang="en">S1:E8 Hände weg von meinen Steinen! | Die Daltons unter Strom | Die Wette</sub-title>
-    <desc lang="en">Averell findet Diamanten in den neuen Steinen, die gerade ins Gefängnis geliefert worden sind. Joe sieht diesen Fund als Möglichkeit, einen Gefängniswärter zu bestechen, damit er ihnen bei der Flucht hilft (allerdings muss erst einer gefunden werden...).</desc>
-    <category lang="en">Family</category>
-    <category lang="en">Filme</category>
-    <category lang="en">Kinder</category>
-  </programme>
-  <programme channel="family-rakuten-tv" start="20260828161118 +0200" stop="20260828163410 +0200">
-    <title lang="en">The Daltons</title>
-    <sub-title lang="en">S1:E9 Der neue Aufseher | Magnetischer Joe | Morsecode</sub-title>
-    <desc lang="en">Washington schickt einen Abgesandten der Regierung in das Gefängnis, ausgestattet mit einer Maschine, die Daten synthetisiert, analysiert und berechnet. Aus tausenden von Kandidaten wählt die Maschine dann die beste Person für eine bestimmte Position aus.</desc>
-    <category lang="en">Family</category>
-    <category lang="en">Filme</category>
-    <category lang="en">Kinder</category>
-  </programme>
-  <programme channel="family-rakuten-tv" start="20260828163410 +0200" stop="20260828165654 +0200">
-    <title lang="en">The Daltons</title>
-    <sub-title lang="en">S1:E10 Der 2-Minuten-Stopp | Die Daltons im Freilauf | Die Daltons in der Höhe</sub-title>
-    <desc lang="en">Peabody teilt den Häftlingen mit, dass die Eisenbahngesellschaft zusätzliche Arbeitskräfte für den Bau der Eisenbahnlinie in der Nähe des Gefängnisses benötigt. Harte Arbeit ohne Bezahlung ...</desc>
-    <category lang="en">Family</category>
-    <category lang="en">Filme</category>
-    <category lang="en">Kinder</category>
-  </programme>
   <programme channel="family-rakuten-tv" start="20260828165654 +0200" stop="20260828183814 +0200">
     <title lang="en">Ozzy</title>
     <desc lang="en">Das beschauliche Leben des kleinen Beagles Ozzy wird von jetzt auf gleich völlig auf den Kopf gestellt. Als seine Familie ihn nicht auf eine Japan-Reise mitnehmen kann, bringt sie ihn in der luxuriösen Hunde-Wellness-Oase „Blue Creek“ unter.</desc>
@@ -30352,11 +30051,6 @@
     <category lang="en">Filme</category>
     <category lang="en">Kinder</category>
   </programme>
-  <programme channel="fantasja" start="20260828150501 +0200" stop="20260828163001 +0200">
-    <title lang="en">Alvin und die Chipmunks: Road Chip</title>
-    <desc lang="en">Als Alvin, Simon und Theodore zufällig einen Verlobungsring entdecken, sind sie überzeugt, dass Dave seiner neuen Freundin Samantha einen Antrag machen will – und dass sie selbst dabei auf der Strecke bleiben. Aus Angst, Dave zu verlieren und Miles, Samanthas ruppigen Sohn, als Stiefbruder zu bekommen, starten die drei Chipmunks eine turbulente Mission: Sie müssen Dave erreichen, bevor er in Miami den vermeintlichen Antrag stellt. Gemeinsam mit Miles machen sie sich auf eine chaotische Reise quer durchs Land, voller Missverständnisse, Fluchtversuche und komischer Zwischenfälle. Unterwegs geraten sie ins Visier des hartnäckigen Agent Suggs, dessen Jagd auf die Chipmunks für noch mehr Chaos sorgt. Während ihre Reise von Texas bis nach Florida führt, merken Alvin, Simon, Theodore und Miles langsam, dass sie einander doch mehr bedeuten, als sie gedacht hatten.</desc>
-    <category lang="en">Filme</category>
-  </programme>
   <programme channel="fantasja" start="20260828163001 +0200" stop="20260828175501 +0200">
     <title lang="en">A Boy Called Sailboat - Jedes Wunder hat seine Melodie</title>
     <desc lang="en">In der Wüste von New Mexico wächst der kleine Sailboat als Sohn mexikanischer Einwanderer auf. Weil er noch nicht spricht, gilt er vielen als „anders“. Doch Sailboat besitzt eine außergewöhnliche Gabe: Er hört die Musik der Welt, lange bevor andere sie wahrnehmen. Als er eines Tages eine alte Ukulele entdeckt, beginnt er, Melodien zu spielen, die Menschen auf berührende Weise miteinander verbinden. Seine Musik öffnet Herzen, heilt alte Wunden und lässt selbst die größten Skeptiker innehalten. Während seine Eltern mit Sorgen, Verlusten und der Härte des Alltags kämpfen, wird Sailboat zum stillen Hoffnungsträger einer Gemeinschaft, die verlernt hat, an Wunder zu glauben.</desc>
@@ -30711,16 +30405,6 @@
     <title lang="en">Das Mädchen, das an Wunder glaubt</title>
     <desc lang="en">Anders als die meisten Menschen ist Sara bereit, Gott beim Wort zu nehmen. Als sie von einem Pastor hört, dass der Glaube buchstäblich Berge versetzen kann, beginnt sie fleißig zu beten. Und dann geschehen besondere Dinge: Was mit einem auf mysteriöse Weise geheilten Vogel beginnt, setzt sich mit Wundern überall in der Stadt fort. Ist Sara etwa eine Wunderheilerin? Das Mädchen verweist zwar auf Gott, doch der überwältigende Ansturm von öffentlichem Interesse fordert bald seinen Tribut von Sara. Wird es ihrer Familie gelingen, ihr »Wundermädchen« zu retten, bevor es zu spät ist?</desc>
     <category lang="en">Filme</category>
-  </programme>
-  <programme channel="fashion-tv" start="20260828153001 +0200" stop="20260828160001 +0200">
-    <title lang="en">GLAM HOUR</title>
-    <desc lang="en">Indulge in pure glamour! GLAM HOUR delivers a sparkling dose of celebrity style, beauty transformations, and luxury insights. Treat yourself to an hour of fabulous inspiration!</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme channel="fashion-tv" start="20260828160001 +0200" stop="20260828163001 +0200">
-    <title lang="en">A-LISTERS</title>
-    <desc lang="en">Dive into the lives of the rich and famous! A-LISTERS takes you behind the velvet ropes for exclusive access to celebrity lifestyles, untold stories, and dazzling red carpet moments. Don't miss it!</desc>
-    <category lang="en">Lifestyle</category>
   </programme>
   <programme channel="fashion-tv" start="20260828163001 +0200" stop="20260828170001 +0200">
     <title lang="en">A-LISTERS</title>
@@ -32222,11 +31906,6 @@
     <desc lang="en">Marta, Christine Sinclair, Sam Kerr, Mary Earps... lernen Sie einige der großen Ikonen des Frauenfußballs näher kennen.</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme channel="filmgold" start="20260828150421 +0200" stop="20260828164455 +0200">
-    <title lang="en">Wenn jeder Tag ein Sonntag wär</title>
-    <desc lang="en">Dr. Karl Maria Wegner ist Besitzer von Reisebüros. Nach 20 Jahren will er mal wieder Urlaub machen - und zugleich eine detektivmäßig geplante heimliche Inspektion seines Schlosshotels am Wörthersee.</desc>
-    <category lang="en">Filme</category>
-  </programme>
   <programme channel="filmgold" start="20260828164455 +0200" stop="20260828183814 +0200">
     <title lang="en">Große Starparade</title>
     <desc lang="en">Drei arbeitslose Künstler gründen einen Piratensender mit dem Namen "Liebessender X". Der bringt ihnen Erfolg, die große Liebe und Ruhm. Als sie dann doch von der Polizei geschnappt werden passiert etwas erstaunliches.</desc>
@@ -32620,12 +32299,6 @@
     <title lang="en">Der Fall X 701</title>
     <desc lang="en">Der Wissenschaftler Frank Overton hat eine Methode der Lebensverlängerung mittels Einfrieren entwickelt und entschließt, die riskante Praktik an sich selber zu testen. Bevor er eingefroren wird, wird jedoch seine Frau getötet und er wird des Mordes verdächtigt.</desc>
     <category lang="en">Filme</category>
-  </programme>
-  <programme channel="filmrise-beyond-belief-de" start="20260828152857 +0200" stop="20260828162121 +0200">
-    <title lang="en">X-Factor: Das Unfassbare</title>
-    <sub-title lang="en">S04 : E13 X-Factor: Das Unfassbare</sub-title>
-    <desc lang="en">Diese Folge hat die folgenden Fälle: Die Hand; Die zerschlagene Puppe; Poker-Gerechtigkeit; Über den Wolken; Bildschirmschoner.</desc>
-    <category lang="en">Serien</category>
   </programme>
   <programme channel="filmrise-beyond-belief-de" start="20260828162121 +0200" stop="20260828171603 +0200">
     <title lang="en">X-Factor: Das Unfassbare</title>
@@ -33323,12 +32996,6 @@
     <desc lang="en">Diese Folge hat die folgenden Fälle: Der Kerzenhalter; Das Abendessen; Von der Agentur; Der magische Rosengarten; Der Jeep.</desc>
     <category lang="en">Serien</category>
   </programme>
-  <programme channel="filmrise-highway-to-heaven-de" start="20260828153611 +0200" stop="20260828163502 +0200">
-    <title lang="en">Highway to Heaven</title>
-    <sub-title lang="en">S01 : E16 Highway to Heaven</sub-title>
-    <desc lang="en">Mark befindet sich in einem Zustand zwischen Leben und Tod, als er bei einem Autounfall schwer verletzt wird.</desc>
-    <category lang="en">Serien</category>
-  </programme>
   <programme channel="filmrise-highway-to-heaven-de" start="20260828163502 +0200" stop="20260828173416 +0200">
     <title lang="en">Highway to Heaven</title>
     <sub-title lang="en">S01 : E17 Highway to Heaven</sub-title>
@@ -33977,12 +33644,6 @@
     <desc lang="en">Jonathan und Mark sind vor Der Stelle, als eine sterbende Frau versucht, sich mit ihrem entfremdeten Vater zu versöhnen.</desc>
     <category lang="en">Serien</category>
   </programme>
-  <programme channel="filmrise-highway-to-heaven-fr" start="20260828155234 +0200" stop="20260828165325 +0200">
-    <title lang="en">Les Routes du Paradis</title>
-    <sub-title lang="en">S02 : E18 Les Routes du Paradis</sub-title>
-    <desc lang="en">Un père tente de faire construire un mémorial en souvenir de son fils qui a été tué au Vietnam.</desc>
-    <category lang="en">Serien</category>
-  </programme>
   <programme channel="filmrise-highway-to-heaven-fr" start="20260828165325 +0200" stop="20260828175204 +0200">
     <title lang="en">Les Routes du Paradis</title>
     <sub-title lang="en">S02 : E19 Les Routes du Paradis</sub-title>
@@ -34613,12 +34274,6 @@
     <desc lang="en">Un pianiste en difficulté tente de redémarrer sa vie après une crise cardiaque.</desc>
     <category lang="en">Serien</category>
   </programme>
-  <programme channel="filmrise-profiling-paris-deu" start="20260828152710 +0200" stop="20260828163612 +0200">
-    <title lang="en">Profiling Paris</title>
-    <sub-title lang="en">S04 : E09 Profiling Paris</sub-title>
-    <desc lang="en">Ein junges Mädchen wird tot in einer Kirche gefunden. Kurz darauf gesteht ein Mann die Tat. Doch während des Verhörs verhält sich dieser seltsam. Chloé vermutet eine schizophrene Störung ...</desc>
-    <category lang="en">Serien</category>
-  </programme>
   <programme channel="filmrise-profiling-paris-deu" start="20260828163612 +0200" stop="20260828174243 +0200">
     <title lang="en">Profiling Paris</title>
     <sub-title lang="en">S04 : E10 Profiling Paris</sub-title>
@@ -35224,20 +34879,6 @@
     <sub-title lang="en">S07 : E06 Profiling Paris</sub-title>
     <desc lang="en">Eine alte Dame wurde grausam ermordet. Wie sich herausstellt, war sie in der gesamten Nachbarschaft unbeliebt, weil sie alle bespitzelt hat - auch die Familie Mandel, die inzwischen nicht mehr dort wohnt.</desc>
     <category lang="en">Serien</category>
-  </programme>
-  <programme channel="filmrise-true-crime-de" start="20260828150744 +0200" stop="20260828160325 +0200">
-    <title lang="en">Unsolved Mysteries with Robert Stack</title>
-    <sub-title lang="en">S03 : E17 Unsolved Mysteries with Robert Stack</sub-title>
-    <desc lang="en">Sean Hochstapler, Update: Amelia Earhart, Die Flucht von Folsom &amp; UD, Der verschwundene Seemann &amp; UD und Vergangene Telefongespräche &amp; UD.</desc>
-    <category lang="en">Crime</category>
-    <category lang="en">Filme</category>
-  </programme>
-  <programme channel="filmrise-true-crime-de" start="20260828160325 +0200" stop="20260828165750 +0200">
-    <title lang="en">Unsolved Mysteries with Robert Stack</title>
-    <sub-title lang="en">S03 : E04 Unsolved Mysteries with Robert Stack</sub-title>
-    <desc lang="en">Der Mann, der zu viel wusste, Update: Liebesschwindler, Dunkler Dante &amp; UD und Das Versprechen &amp; UD.</desc>
-    <category lang="en">Crime</category>
-    <category lang="en">Filme</category>
   </programme>
   <programme channel="filmrise-true-crime-de" start="20260828165750 +0200" stop="20260828175558 +0200">
     <title lang="en">Unsolved Mysteries with Robert Stack</title>
@@ -36030,12 +35671,6 @@
     <category lang="en">Crime</category>
     <category lang="en">Filme</category>
   </programme>
-  <programme channel="filmrise-unsolved-mysteries-de" start="20260828151155 +0200" stop="20260828160649 +0200">
-    <title lang="en">Unsolved Mysteries with Robert Stack</title>
-    <sub-title lang="en">S03 : E10 Unsolved Mysteries with Robert Stack</sub-title>
-    <desc lang="en">Unten auf der Farm, Update: Das Versprechen, Der Tod eines Truckers, Die Wundertreppe und Folge dem Schatten.</desc>
-    <category lang="en">Unterhaltung</category>
-  </programme>
   <programme channel="filmrise-unsolved-mysteries-de" start="20260828160649 +0200" stop="20260828170709 +0200">
     <title lang="en">Unsolved Mysteries with Robert Stack</title>
     <sub-title lang="en">S04 : E09 Unsolved Mysteries with Robert Stack</sub-title>
@@ -36719,11 +36354,6 @@
     <sub-title lang="en">S01 : E23 Unsolved Mysteries with Robert Stack</sub-title>
     <desc lang="en">Diese Folge umfasst: Motorrad-Mama &amp; UD, Update: Überfall auf Ready Teller, Weißer Vogel, Tod durch Strychnin und Vermisste Mariners.</desc>
     <category lang="en">Unterhaltung</category>
-  </programme>
-  <programme channel="focus-tv" start="20260828155724 +0200" stop="20260828161847 +0200">
-    <title lang="en">Risikospiel! Großeinsatz gegen Randale im Fußballstadion</title>
-    <desc lang="en">Die Gewalt rund um die deutschen Fußballstadien nimmt zu. Experten erkennen immer öfter eine neue Qualität der Ausschreitungen, die eindeutig als kriminell einzustufen ist: Geplante Überfälle auf Fanbusse, Bedrohungen von Spielern und Trainern, gezielte Übergriffe auf Spieler – das sind neue Phänomene in den Bundesligen. Dahinter steckt eine kleine, aber radikale Minderheit von gewaltbereiten Fans, die den Fußball immer mehr in Geißelhaft nimmt. Die Polizei muss sich den neuen Anforderungen stellen. In Köln werden deshalb bei Risiko-spielen zahlreiche Hundertschaften eingesetzt und mehr als ein Dutzend sogenannte „szenekundige Beamte“ (SKB), um Gefahrenstellen frühzeitig zu erkennen und zu entschärfen. Vor allem ein Aufeinandertreffen der gegnerischen Ultra-Gruppen gilt es unter allen Umständen zu verhindern. Raimund Schulte-Rosier und Uwe John stehen dabei an vorderster Front. Die SKBs der Polizei Köln begleiten an der Spitze den Zug der Gäste-Fans vom Bahnhof bis ins Stadion und melden der Einsatzleitung, wenn die Lage irgendwo zu eskalieren droht. Im Sta-dion haben sie vor allen ein Auge auf Fans, die bengalische Feuer zünden – die Feuerwerks-körper sind in den Arenen verboten und höchst gefährlich. Die Focus TV Reportage begleitet den Einsatz der Kölner Polizei rund um ein sogenanntes „Risikospiel“ von der Einsatzbesprechung am Morgen bis zur Videoüberwachung im Stadion, spricht mit Fans und demonstriert, warum Pyrotechnik in den Arenen so gefährlich ist.</desc>
-    <category lang="en">Nachrichten</category>
   </programme>
   <programme channel="focus-tv" start="20260828161847 +0200" stop="20260828170944 +0200">
     <title lang="en">Von Verbrecherjagd bis Wildunfall: Polizeieinsätze in Stadt &amp; Land</title>
@@ -37635,31 +37265,6 @@
     <desc lang="en">Ist das, was man Christian Ulmen vorwirft, überhaupt strafbar? In der öffentlichen Befassung mit dem Rechtsstreit des ehemaligen Schauspielerpaares geht einiges durcheinander. Entdecke den Ulmen in dir: Wie sich Männer selbst groß machen. Und: „Wir sind die zweitgrößte Regierungspartei“ - Lars Klingbeil, der Napoleon Bonaparte der SPD.</desc>
     <category lang="en">Nachrichten</category>
   </programme>
-  <programme channel="france-24-en" start="20260828154501 +0200" stop="20260828160001 +0200">
-    <title lang="en">France In Focus</title>
-    <desc lang="en">An in-depth look at the political and social events shaping France.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260828160001 +0200" stop="20260828161201 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260828161201 +0200" stop="20260828163001 +0200">
-    <title lang="en">Paris des Arts</title>
-    <desc lang="en">See Paris through the eyes of an artist for a cultural insight into their favourite haunts</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260828163001 +0200" stop="20260828164201 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260828164201 +0200" stop="20260828165401 +0200">
-    <title lang="en">Entr</title>
-    <desc lang="en">ENTR, show by young European journalists, offers interactive content on topics that matter to youth: climate, jobs, culture, tech, gender &amp; solidarity.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
   <programme channel="france-24-en" start="20260828165401 +0200" stop="20260828170001 +0200">
     <title lang="en">Short Cuts</title>
     <desc lang="en">Inspiring topics and positive initiatives that are changing the world.</desc>
@@ -38325,467 +37930,7 @@
     <desc lang="en">Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
     <category lang="en">Nachrichten</category>
   </programme>
-  <programme channel="france-24-en" start="20260830020001 +0200" stop="20260830021201 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830021201 +0200" stop="20260830023001 +0200">
-    <title lang="en">Paris des Arts</title>
-    <desc lang="en">See Paris through the eyes of an artist for a cultural insight into their favourite haunts</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830023001 +0200" stop="20260830024201 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830024201 +0200" stop="20260830025401 +0200">
-    <title lang="en">The 51 Percent</title>
-    <desc lang="en">A programme about the women reshaping our world.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830025401 +0200" stop="20260830030001 +0200">
-    <title lang="en">Short Cuts</title>
-    <desc lang="en">Inspiring topics and positive initiatives that are changing the world.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830030001 +0200" stop="20260830031501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830031501 +0200" stop="20260830033001 +0200">
-    <title lang="en">People And Profit</title>
-    <desc lang="en">Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830033001 +0200" stop="20260830034501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830034501 +0200" stop="20260830040001 +0200">
-    <title lang="en">French Connections</title>
-    <desc lang="en">A quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830040001 +0200" stop="20260830041501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830041501 +0200" stop="20260830043001 +0200">
-    <title lang="en">Reporters</title>
-    <desc lang="en">International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830043001 +0200" stop="20260830044501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830044501 +0200" stop="20260830045101 +0200">
-    <title lang="en">The Observers</title>
-    <desc lang="en">Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830045101 +0200" stop="20260830050001 +0200">
-    <title lang="en">Focus</title>
-    <desc lang="en">Exclusive reports from France 24 correspondents around the world.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830050001 +0200" stop="20260830051501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830051501 +0200" stop="20260830053001 +0200">
-    <title lang="en">France In Focus</title>
-    <desc lang="en">An in-depth look at the political and social events shaping France.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830053001 +0200" stop="20260830054501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830054501 +0200" stop="20260830060001 +0200">
-    <title lang="en">Arts24</title>
-    <desc lang="en">Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830060001 +0200" stop="20260830061501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830061501 +0200" stop="20260830062101 +0200">
-    <title lang="en">Sports</title>
-    <desc lang="en">A summary of world sports news of the day, both on and off the pitch.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830062101 +0200" stop="20260830063001 +0200">
-    <title lang="en">French Connections</title>
-    <desc lang="en">A quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830063001 +0200" stop="20260830064501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830064501 +0200" stop="20260830065101 +0200">
-    <title lang="en">The Observers</title>
-    <desc lang="en">Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830065101 +0200" stop="20260830070001 +0200">
-    <title lang="en">Entre Nous</title>
-    <desc lang="en">From social norms, to what is making headlines in France, join us for an in-depth look at society.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830070001 +0200" stop="20260830071501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830071501 +0200" stop="20260830073001 +0200">
-    <title lang="en">Talking Europe</title>
-    <desc lang="en">Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830073001 +0200" stop="20260830074501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830074501 +0200" stop="20260830075101 +0200">
-    <title lang="en">Sports</title>
-    <desc lang="en">A summary of world sports news of the day, both on and off the pitch.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830075101 +0200" stop="20260830080001 +0200">
-    <title lang="en">Focus</title>
-    <desc lang="en">Exclusive reports from France 24 correspondents around the world.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830080001 +0200" stop="20260830081501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830081501 +0200" stop="20260830083001 +0200">
-    <title lang="en">Arts24</title>
-    <desc lang="en">Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830083001 +0200" stop="20260830084501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830084501 +0200" stop="20260830085001 +0200">
-    <title lang="en">Focus</title>
-    <desc lang="en">Exclusive reports from France 24 correspondents around the world.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830085001 +0200" stop="20260830090001 +0200">
-    <title lang="en">Sports</title>
-    <desc lang="en">A summary of world sports news of the day, both on and off the pitch.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830090001 +0200" stop="20260830093001 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830093001 +0200" stop="20260830100001 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830100001 +0200" stop="20260830101501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830101501 +0200" stop="20260830102001 +0200">
-    <title lang="en">Entre Nous</title>
-    <desc lang="en">From social norms, to what is making headlines in France, join us for an in-depth look at society.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830102001 +0200" stop="20260830103001 +0200">
-    <title lang="en">Focus</title>
-    <desc lang="en">Exclusive reports from France 24 correspondents around the world.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830103001 +0200" stop="20260830104501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830104501 +0200" stop="20260830110001 +0200">
-    <title lang="en">Reporters</title>
-    <desc lang="en">International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830110001 +0200" stop="20260830111501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830111501 +0200" stop="20260830113001 +0200">
-    <title lang="en">Talking Europe</title>
-    <desc lang="en">Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830113001 +0200" stop="20260830114501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830114501 +0200" stop="20260830120001 +0200">
-    <title lang="en">Talking Europe</title>
-    <desc lang="en">Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830120001 +0200" stop="20260830121501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830121501 +0200" stop="20260830123001 +0200">
-    <title lang="en">Arts24</title>
-    <desc lang="en">Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830123001 +0200" stop="20260830124501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830124501 +0200" stop="20260830125001 +0200">
-    <title lang="en">Focus</title>
-    <desc lang="en">Exclusive reports from France 24 correspondents around the world.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830125001 +0200" stop="20260830130001 +0200">
-    <title lang="en">Sports</title>
-    <desc lang="en">A summary of world sports news of the day, both on and off the pitch.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830130001 +0200" stop="20260830133001 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830133001 +0200" stop="20260830140001 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830140001 +0200" stop="20260830141201 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830141201 +0200" stop="20260830143001 +0200">
-    <title lang="en">Paris des Arts</title>
-    <desc lang="en">See Paris through the eyes of an artist for a cultural insight into their favourite haunts</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830143001 +0200" stop="20260830144201 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830144201 +0200" stop="20260830145401 +0200">
-    <title lang="en">Tête à tête</title>
-    <desc lang="en">An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830145401 +0200" stop="20260830150001 +0200">
-    <title lang="en">Short Cuts</title>
-    <desc lang="en">Inspiring topics and positive initiatives that are changing the world.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830150001 +0200" stop="20260830151501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830151501 +0200" stop="20260830153001 +0200">
-    <title lang="en">People And Profit</title>
-    <desc lang="en">Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830153001 +0200" stop="20260830154501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830154501 +0200" stop="20260830160001 +0200">
-    <title lang="en">Reporters</title>
-    <desc lang="en">International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830160001 +0200" stop="20260830161501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830161501 +0200" stop="20260830162101 +0200">
-    <title lang="en">The Observers</title>
-    <desc lang="en">Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830162101 +0200" stop="20260830163001 +0200">
-    <title lang="en">Focus</title>
-    <desc lang="en">Exclusive reports from France 24 correspondents around the world.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830163001 +0200" stop="20260830164501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830164501 +0200" stop="20260830170001 +0200">
-    <title lang="en">Arts24</title>
-    <desc lang="en">Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830170001 +0200" stop="20260830171501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830171501 +0200" stop="20260830173001 +0200">
-    <title lang="en">Talking Europe</title>
-    <desc lang="en">Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830173001 +0200" stop="20260830174501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830174501 +0200" stop="20260830180001 +0200">
-    <title lang="en">Talking Europe</title>
-    <desc lang="en">Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830180001 +0200" stop="20260830183001 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830183001 +0200" stop="20260830190001 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830190001 +0200" stop="20260830191501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830191501 +0200" stop="20260830193001 +0200">
-    <title lang="en">Tête à tête</title>
-    <desc lang="en">An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830193001 +0200" stop="20260830194501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830194501 +0200" stop="20260830200001 +0200">
-    <title lang="en">People And Profit</title>
-    <desc lang="en">Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830200001 +0200" stop="20260830203001 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830203001 +0200" stop="20260830210001 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830210001 +0200" stop="20260830211501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830211501 +0200" stop="20260830213001 +0200">
-    <title lang="en">France In Focus</title>
-    <desc lang="en">An in-depth look at the political and social events shaping France.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830213001 +0200" stop="20260830214501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830214501 +0200" stop="20260830215101 +0200">
-    <title lang="en">The Observers</title>
-    <desc lang="en">Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830215101 +0200" stop="20260830220001 +0200">
-    <title lang="en">Focus</title>
-    <desc lang="en">Exclusive reports from France 24 correspondents around the world.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830220001 +0200" stop="20260830221001 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830221001 +0200" stop="20260830223001 +0200">
-    <title lang="en">Revisited</title>
-    <desc lang="en">France 24 returns to places which featured in the news to see how local people are rebuilding their lives.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830223001 +0200" stop="20260830224001 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830224001 +0200" stop="20260830224501 +0200">
-    <title lang="en">Focus</title>
-    <desc lang="en">Exclusive reports from France 24 correspondents around the world.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830224501 +0200" stop="20260830230001 +0200">
-    <title lang="en">Tête à tête</title>
-    <desc lang="en">An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830230001 +0200" stop="20260830231501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830231501 +0200" stop="20260830233001 +0200">
-    <title lang="en">French Connections</title>
-    <desc lang="en">A quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830233001 +0200" stop="20260830234501 +0200">
-    <title lang="en">News</title>
-    <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260830234501 +0200" stop="20260831000001 +0200">
-    <title lang="en">Arts24</title>
-    <desc lang="en">Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="france-24-en" start="20260831000001 +0200" stop="20260831001501 +0200">
+  <programme channel="france-24-en" start="20260830020001 +0200" stop="20260831001501 +0200">
     <title lang="en">News</title>
     <desc lang="en">An international news bulletin, presented live from the newsroom.</desc>
     <category lang="en">Nachrichten</category>
@@ -41268,12 +40413,6 @@
     <desc lang="en">Rico Verhoeven defends his title against Jamal Ben Saddik, Gokhan Saki Returns, Maslobojev, Plazibat, Duut and more.</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme channel="goldstar-tv" start="20260828153407 +0200" stop="20260828164406 +0200">
-    <title lang="en">Schlager &amp; Co</title>
-    <sub-title lang="en">S01 : E08 Schlager &amp; Co</sub-title>
-    <desc lang="en">Mit Schlager &amp; Co" sind Sie immer am Puls der Zeit! Es erwarten Sie vielversprechende Nachwuchskünstler und die aktuellsten Hits deutscher Top-Interpreten. In Schlager &amp; Co" zeigt Ihnen GoldStar TV alle brandneuen Schlagerhits vom Newcomer bis zum etablierten Star.</desc>
-    <category lang="en">Musik</category>
-  </programme>
   <programme channel="goldstar-tv" start="20260828164406 +0200" stop="20260828175332 +0200">
     <title lang="en">Schlager &amp; Co</title>
     <sub-title lang="en">S01 : E09 Schlager &amp; Co</sub-title>
@@ -42273,10 +41412,6 @@
     <desc lang="en">Gerda Steiner ist eine absolute Kultfigur des Heimattheaters und zugleich Tochter des beliebten Volksschauspielers Peter Steiner. In dieser Sendung erzählt sie von der bewegenden Reise durch ihr Leben und ihre Karriere und von der bedeutenden Rolle, die ihr Vater in ihrem Werdegang spielte.</desc>
     <category lang="en">Musik</category>
   </programme>
-  <programme channel="graham-norton-deu" start="20260828160000 +0200" stop="20260828170000 +0200">
-    <title lang="en">Graham Norton</title>
-    <category lang="en">Unterhaltung</category>
-  </programme>
   <programme channel="graham-norton-deu" start="20260828170000 +0200" stop="20260828180000 +0200">
     <title lang="en">Graham Norton</title>
     <category lang="en">Unterhaltung</category>
@@ -42697,11 +41832,6 @@
     <title lang="en">Graham Norton</title>
     <category lang="en">Unterhaltung</category>
   </programme>
-  <programme channel="grjngo-german" start="20260828145501 +0200" stop="20260828162001 +0200">
-    <title lang="en">Sie kamen zu viert, um zu töten</title>
-    <desc lang="en">Sieben maskierte Banditen entführen die junge Susy, die Cousine des Bürgermeisters von Clayton City, Frank Clonny. Frank akzeptiert das von den Banditen geforderte Lösegeld von 15.000 Dollar und denkt sich einen Plan aus, der es ihm ermöglicht, das Geld zurückzubekommen und die Banditen zu fassen.</desc>
-    <category lang="en">Filme</category>
-  </programme>
   <programme channel="grjngo-german" start="20260828162001 +0200" stop="20260828175001 +0200">
     <title lang="en">Aufstand in Arizona</title>
     <desc lang="en">Ein junger Kavallerieoffizier erhält den Auftrag, eine Gruppe von Apachen zu stellen, die die Gegend terrorisieren.</desc>
@@ -43056,16 +42186,6 @@
     <title lang="en">Im Tal des Verderbens</title>
     <desc lang="en">Ein Indianer und seine schöne Schwester versuchen, eine Kavalleriepatrouille zu vernichten, die ihrem Häuptling einen Friedensvertrag überbringen will.</desc>
     <category lang="en">Filme</category>
-  </programme>
-  <programme channel="gusto-tv-new" start="20260828150006 +0200" stop="20260828160006 +0200">
-    <title lang="en">OBR_S1E6_1006</title>
-    <desc lang="en">OBR_S1E6_1006</desc>
-    <category lang="en">Kochen</category>
-  </programme>
-  <programme channel="gusto-tv-new" start="20260828160006 +0200" stop="20260828163006 +0200">
-    <title lang="en">GN_S1E21_1021</title>
-    <desc lang="en">GN_S1E21_1021</desc>
-    <category lang="en">Kochen</category>
   </programme>
   <programme channel="gusto-tv-new" start="20260828163006 +0200" stop="20260828170006 +0200">
     <title lang="en">GN_S1E20_1020</title>
@@ -44139,18 +43259,6 @@
     <title lang="en">PO_S1E7_1007</title>
     <desc lang="en">PO_S1E7_1007</desc>
     <category lang="en">Kochen</category>
-  </programme>
-  <programme channel="hard-knocks-fighting-championship" start="20260828155827 +0200" stop="20260828161927 +0200">
-    <title lang="en">M-1 Challenge 78 - Vadim Malygin v. Fabricio Sarraff</title>
-    <desc lang="en">Vadim Malygin v. Fabricio Sarraff</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Unterhaltung</category>
-  </programme>
-  <programme channel="hard-knocks-fighting-championship" start="20260828161927 +0200" stop="20260828163722 +0200">
-    <title lang="en">Shock n Awe 14 - Brett Caswell v. Mark Handley</title>
-    <desc lang="en">Brett Caswell v. Mark Handley</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Unterhaltung</category>
   </programme>
   <programme channel="hard-knocks-fighting-championship" start="20260828163722 +0200" stop="20260828170013 +0200">
     <title lang="en">HKFC 44 - Rodney Wallace v. Kalib Starnes</title>
@@ -45385,13 +44493,6 @@
     <category lang="en">Sport</category>
     <category lang="en">Unterhaltung</category>
   </programme>
-  <programme channel="hell-s-kitchen-dach-itv" start="20260828153519 +0200" stop="20260828162658 +0200">
-    <title lang="en">Hell's Kitchen</title>
-    <sub-title lang="en">S04 : E09 Folge 9</sub-title>
-    <desc lang="en">Gordon Ramsays kulinarisches Bootcamp in den USA fordert weitere angehende Köche heraus.</desc>
-    <category lang="en">Kochen</category>
-    <category lang="en">Reality Shows</category>
-  </programme>
   <programme channel="hell-s-kitchen-dach-itv" start="20260828162658 +0200" stop="20260828171838 +0200">
     <title lang="en">Hell's Kitchen</title>
     <sub-title lang="en">S04 : E10 Folge 10</sub-title>
@@ -46253,10 +45354,6 @@
     <category lang="en">Kochen</category>
     <category lang="en">Reality Shows</category>
   </programme>
-  <programme channel="herzfrequenz" start="20260828155429 +0200" stop="20260828163754 +0200">
-    <title lang="en">Der Landarzt - Kleine große Hoffnung</title>
-    <desc lang="en">Nachdem Napolita wieder gesund ist, soll das Pferd an einem Trabrennen teilnehmen.</desc>
-  </programme>
   <programme channel="herzfrequenz" start="20260828163754 +0200" stop="20260828172130 +0200">
     <title lang="en">Der Landarzt - Der Entschluss</title>
     <desc lang="en">Claas Moser bringt den Maurer Groterjahn in die Praxis von Dr. Teschner. Er sei mit dem Fahrrad gestürzt.</desc>
@@ -46856,36 +45953,6 @@
   <programme channel="herzfrequenz" start="20260902015332 +0200" stop="20260902023657 +0200">
     <title lang="en">Der Landarzt - Rückgrat zeigen</title>
     <desc lang="en">Doris Jantzen kann sich plötzlich nur noch unter heftigen Schmerzen bewegen. Maren macht sich große Sorgen um ihre Mutter.</desc>
-  </programme>
-  <programme channel="il-sole-24-ore-tv" start="20260828154301 +0200" stop="20260828160401 +0200">
-    <title lang="en">Rubrica</title>
-    <desc lang="en">Programma di approfondimento</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="il-sole-24-ore-tv" start="20260828160401 +0200" stop="20260828160801 +0200">
-    <title lang="en">NEWS</title>
-    <desc lang="en">NEWS</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="il-sole-24-ore-tv" start="20260828160801 +0200" stop="20260828161501 +0200">
-    <title lang="en">Radio24 TV</title>
-    <desc lang="en">Radio24 TV</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="il-sole-24-ore-tv" start="20260828161501 +0200" stop="20260828162701 +0200">
-    <title lang="en">Rubrica</title>
-    <desc lang="en">Programma di approfondimento</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="il-sole-24-ore-tv" start="20260828162701 +0200" stop="20260828164001 +0200">
-    <title lang="en">Rubrica</title>
-    <desc lang="en">Programma di approfondimento</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="il-sole-24-ore-tv" start="20260828164001 +0200" stop="20260828165201 +0200">
-    <title lang="en">Rubrica</title>
-    <desc lang="en">Programma di approfondimento</desc>
-    <category lang="en">Nachrichten</category>
   </programme>
   <programme channel="il-sole-24-ore-tv" start="20260828165201 +0200" stop="20260828170401 +0200">
     <title lang="en">Rubrica</title>
@@ -48562,12 +47629,6 @@
     <desc lang="en">Giuseppe Cruciani con David Parenzo conduce "La Zanzara", l'attualità senza tabù, senza censure, senza tagli alle vostre opinioni. Una zona franca per gli ascoltatori, uno spazio nemico della banalità e del politicamente corretto.</desc>
     <category lang="en">Nachrichten</category>
   </programme>
-  <programme channel="inter-24-7-eng" start="20260828155131 +0200" stop="20260828164331 +0200">
-    <title lang="en">Inter Weekly - All The Insights Ahead Of Inter - Pisa</title>
-    <desc lang="en">Inside the black and blue week: the weekend matchday of the first team, the UCL midweek encounter, the Inter Women fixture as well as the Under 23 and the Youth League, plus exclusive interviews.</desc>
-    <category lang="en">Nachrichten</category>
-    <category lang="en">Sport</category>
-  </programme>
   <programme channel="inter-24-7-eng" start="20260828164331 +0200" stop="20260828174435 +0200">
     <title lang="en">Inter Weekly - All The Insights Ahead Of Cremonese - Inter</title>
     <desc lang="en">Inside the black and blue week: the weekend matchday of the first team, the UCL midweek encounter, the Inter Women fixture as well as the Under 23 and the Youth League, plus exclusive interviews.</desc>
@@ -49347,12 +48408,6 @@
     <desc lang="en">Inter held to a draw: 3-3 at Bologna.</desc>
     <category lang="en">Nachrichten</category>
     <category lang="en">Sport</category>
-  </programme>
-  <programme channel="jukin-fail-army-new" start="20260828155925 +0200" stop="20260828163025 +0200">
-    <title lang="en">FAILARMY: 50 VS. 50</title>
-    <sub-title lang="en">S01 : E04 FAILARMY: 50 VS. 50 | Superheroes vs. Spells</sub-title>
-    <desc lang="en">Find out which of these legendary categories is more failure prone: mighty superheroes or mysterious spells.</desc>
-    <category lang="en">Unterhaltung</category>
   </programme>
   <programme channel="jukin-fail-army-new" start="20260828163025 +0200" stop="20260828170125 +0200">
     <title lang="en">FAILARMY: 50 VS. 50</title>
@@ -50566,16 +49621,6 @@
     <desc lang="en">The best of the worst for April '22.</desc>
     <category lang="en">Unterhaltung</category>
   </programme>
-  <programme channel="just-cooking" start="20260828155514 +0200" stop="20260828162023 +0200">
-    <title lang="en">Die besten Köche der Welt - Zu Gast im Ikarus - Johannes King</title>
-    <desc lang="en">Die besten Köche der Welt - Zu Gast im Ikarus: Johannes King führt auf der exklusiven Ferieninsel Sylt eines der diskretesten Luxusdomizile Deutschlands: den Sölring Hof.</desc>
-    <category lang="en">Kochen</category>
-  </programme>
-  <programme channel="just-cooking" start="20260828162023 +0200" stop="20260828164536 +0200">
-    <title lang="en">Die besten Köche der Welt - Zu Gast im Ikarus - David Klinch</title>
-    <desc lang="en">Die besten Köche der Welt - Zu Gast im Ikarus: David Kinch gilt als Erfinder der neuen zeitgenössischen Küche Kaliforniens. In seinem Restaurant Manresa, eine Stunde südlich von San Francisco, vereint er ein tiefes Verständnis der klassischen Küche mit der Offenheit, alles zu probieren.</desc>
-    <category lang="en">Kochen</category>
-  </programme>
   <programme channel="just-cooking" start="20260828164536 +0200" stop="20260828171049 +0200">
     <title lang="en">Die besten Köche der Welt - Zu Gast im Ikarus - Ikarus Team 2</title>
     <desc lang="en">Die besten Köche der Welt - Zu Gast im Ikarus: Jeden Monat schwingt ein anderer Spitzenkoch im Restaurant Ikarus den Kochlöffel - im Festspielmonat August ist alles anders.</desc>
@@ -51495,16 +50540,6 @@
     <title lang="en">Die besten Köche der Welt - Zu Gast im Ikarus - Sidney Schutte</title>
     <desc lang="en">Die besten Köche der Welt - Zu Gast im Ikarus: Sidney Schutte, Chefkoch des 2-Sterne-Restaurants "Librije's Zusje", und Hangar-7 Executive Chef Martin Klein kreieren gemeinsam ein Menü der Spitzenklasse für das Restaurant Ikarus.</desc>
     <category lang="en">Kochen</category>
-  </programme>
-  <programme channel="just-fishing" start="20260828153501 +0200" stop="20260828161358 +0200">
-    <title lang="en">Auf den Spuren der Cherokee - Unsere ersten Amerikaner</title>
-    <desc lang="en">Begleitet uns auf unserer abenteuerlichen Reise durch die unerschlossenen Weiten der USA. Gestartet am Lake House am Lake Secession, fingen wir unsere ersten amerikanischen Karpfen - bevor das große Abenteuer Dale Hollow begann.</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme channel="just-fishing" start="20260828161358 +0200" stop="20260828164845 +0200">
-    <title lang="en">Auf den Spuren der Cherokee - Perfekter Abschluss am Lake Seccession</title>
-    <desc lang="en">In der zweiten Folge fanden wir unseren Rhythmus und fingen Fisch auf Fisch. Alles schien perfekt - bis das Unvorhersehbare geschah.</desc>
-    <category lang="en">Sport</category>
   </programme>
   <programme channel="just-fishing" start="20260828164845 +0200" stop="20260828173142 +0200">
     <title lang="en">Auf den Spuren der Cherokee - Im Land der wilden Fullys</title>
@@ -52565,24 +51600,6 @@
     <title lang="en">Big River - Rott</title>
     <desc lang="en">Rott: Unsere Reise quer durch die Heimat findet ihren Höhepunkt, das Big River Finale wird eingeleitet und bildet den krönenden Abschluss dieser Angel Film Reise quer durch Deutschland.</desc>
     <category lang="en">Sport</category>
-  </programme>
-  <programme channel="ladykracher" start="20260828153905 +0200" stop="20260828160552 +0200">
-    <title lang="en">Ladykracher</title>
-    <sub-title lang="en">S04 : E05 Wer zum Teufel ist das?</sub-title>
-    <desc lang="en">Wer kennt das nicht: Auf einer Party trifft man jemanden, der einen zu kennen scheint. Und der einem mir nichts, dir nichts sein Herz ausschüttet. Aber wer in Gottes Namen ist das nur? Aus solchen Situationen entstehen gern besonders peinliche Momente.</desc>
-    <category lang="en">Unterhaltung</category>
-  </programme>
-  <programme channel="ladykracher" start="20260828160552 +0200" stop="20260828163243 +0200">
-    <title lang="en">Ladykracher</title>
-    <sub-title lang="en">S04 : E06 Kindergarten besessen</sub-title>
-    <desc lang="en">Petra und Leo sind Rettungsschwimmer mit politischem Auftrag. Um gerettet zu werden, müssen sie FDP wählen. Wer sich weigert und untergeht macht damit klar: die Politikverdrossenheit in Deutschland greift um sich.</desc>
-    <category lang="en">Unterhaltung</category>
-  </programme>
-  <programme channel="ladykracher" start="20260828163243 +0200" stop="20260828165907 +0200">
-    <title lang="en">Ladykracher</title>
-    <sub-title lang="en">S04 : E07 Der Bewerber</sub-title>
-    <desc lang="en">Filmproduzent Rolf Brunner, seine Assistentin Karin Maybach und Castingchef Detlev Harm bei einer Krisensitzung: Für die anstehende internationale Kinofilmproduktion findet sich kein Regisseur. Von Wedel bis Dietl – niemand ist abkömmlich …</desc>
-    <category lang="en">Unterhaltung</category>
   </programme>
   <programme channel="ladykracher" start="20260828165907 +0200" stop="20260828172548 +0200">
     <title lang="en">Ladykracher</title>
@@ -53922,10 +52939,6 @@
     <desc lang="en">Petra und Leo sind Rettungsschwimmer mit politischem Auftrag. Um gerettet zu werden, müssen sie FDP wählen. Wer sich weigert und untergeht macht damit klar: die Politikverdrossenheit in Deutschland greift um sich.</desc>
     <category lang="en">Unterhaltung</category>
   </programme>
-  <programme channel="looloo-kids-deu" start="20260828160000 +0200" stop="20260828170000 +0200">
-    <title lang="en">LooLoo Kids TV</title>
-    <category lang="en">Kinder</category>
-  </programme>
   <programme channel="looloo-kids-deu" start="20260828170000 +0200" stop="20260828180000 +0200">
     <title lang="en">LooLoo Kids TV</title>
     <category lang="en">Kinder</category>
@@ -54345,12 +53358,6 @@
   <programme channel="looloo-kids-deu" start="20260902010000 +0200" stop="20260902015959 +0200">
     <title lang="en">LooLoo Kids TV</title>
     <category lang="en">Kinder</category>
-  </programme>
-  <programme channel="love-after-lock-up-deu" start="20260828154503 +0200" stop="20260828164642 +0200">
-    <title lang="en">Dating hinter Gittern, Season 4, Episode 04, Showdown um Tiffany</title>
-    <desc lang="en">Paare treffen nach der Haftentlassung endlich aufeinander. Wird ihre Liebe in Freiheit weiterbestehen? Kevin stellt überrascht fest, dass er nicht der einzige Mann bei Tiffanys Entlassung ist. Rick hat Angst, dass er in Wahrheit betrogen wird. Harry steckt in Schwierigkeiten, als er von Cops angehalten wird. Tayler macht eine schockierende Entdeckung über Chance. Das Wiedersehen von Kaylah und Martel läuft nicht wie geplant.</desc>
-    <category lang="en">Reality Shows</category>
-    <category lang="en">Serien</category>
   </programme>
   <programme channel="love-after-lock-up-deu" start="20260828164642 +0200" stop="20260828174501 +0200">
     <title lang="en">Dating hinter Gittern, Season 4, Episode 05, Und der Gewinner ist…</title>
@@ -55198,11 +54205,6 @@
     <category lang="en">Reality Shows</category>
     <category lang="en">Serien</category>
   </programme>
-  <programme channel="man-city-24-7" start="20260828140256 +0200" stop="20260828162645 +0200">
-    <title lang="en">Monaco v City: Full Match Replay 2025/26 Group Stages</title>
-    <desc lang="en">Watch the full 90 minutes from our Champions League clash in Monaco.</desc>
-    <category lang="en">Sport</category>
-  </programme>
   <programme channel="man-city-24-7" start="20260828162645 +0200" stop="20260828172037 +0200">
     <title lang="en">Our Phil: A City Studios special</title>
     <desc lang="en">Watch our documentary on our brilliant young star, Phil Foden.</desc>
@@ -55859,12 +54861,6 @@
     <title lang="en">Real Madrid v City: Full Match Replay 2024/25 Knockout Phase Playoff</title>
     <desc lang="en">Watch the full 90 minutes of our Champions League clash at the Bernabeu on CITY+.</desc>
     <category lang="en">Sport</category>
-  </programme>
-  <programme channel="meet-marry-murder" start="20260828155526 +0200" stop="20260828165357 +0200">
-    <title lang="en">Meet, Marry, Murder</title>
-    <sub-title lang="en">S01 : E17 Meet, Marry, Murder</sub-title>
-    <desc lang="en">Als Arlene Fraser verschwand, hatte ihr Mann Nat ein hieb- und stichfestes Alibi. Aber die örtliche Polizei ließ sich nicht täuschen.</desc>
-    <category lang="en">Unterhaltung</category>
   </programme>
   <programme channel="meet-marry-murder" start="20260828165357 +0200" stop="20260828174935 +0200">
     <title lang="en">Meet, Marry, Murder</title>
@@ -56580,10 +55576,6 @@
     <desc lang="en">Janbaz Tarin zwang Raneem zu einer Beziehung. Als sie versuchte, auszubrechen, nahm er die ultimative Rache.</desc>
     <category lang="en">Unterhaltung</category>
   </programme>
-  <programme channel="merhaba-arabische-de" start="20260828160000 +0200" stop="20260828170000 +0200">
-    <title lang="en">Merhaba Arabische Serien</title>
-    <category lang="en">Serien</category>
-  </programme>
   <programme channel="merhaba-arabische-de" start="20260828170000 +0200" stop="20260828180000 +0200">
     <title lang="en">Merhaba Arabische Serien</title>
     <category lang="en">Serien</category>
@@ -57004,11 +55996,6 @@
     <title lang="en">Merhaba Arabische Serien</title>
     <category lang="en">Serien</category>
   </programme>
-  <programme channel="merhaba-turkische-filme-deu" start="20260828141902 +0200" stop="20260828161207 +0200">
-    <title lang="en">Kızım İçin</title>
-    <desc lang="en">Ein Vater taucht nach Jahren auf – und bringt alles durcheinander.</desc>
-    <category lang="en">Filme</category>
-  </programme>
   <programme channel="merhaba-turkische-filme-deu" start="20260828161207 +0200" stop="20260828175758 +0200">
     <title lang="en">Lale Devri S2 E28</title>
     <sub-title lang="en">S02 : E28 Lale Devri</sub-title>
@@ -57327,11 +56314,6 @@
     <title lang="en">Pişt</title>
     <desc lang="en">merhaba turkische filme</desc>
     <category lang="en">Filme</category>
-  </programme>
-  <programme channel="merhaba-turkische-serien-deu" start="20260828160000 +0200" stop="20260828170000 +0200">
-    <title lang="en">Merhaba Türkische Serien</title>
-    <category lang="en">Asian</category>
-    <category lang="en">Serien</category>
   </programme>
   <programme channel="merhaba-turkische-serien-deu" start="20260828170000 +0200" stop="20260828180000 +0200">
     <title lang="en">Merhaba Türkische Serien</title>
@@ -57858,10 +56840,6 @@
     <category lang="en">Asian</category>
     <category lang="en">Serien</category>
   </programme>
-  <programme channel="metal-rocks" start="20260828160000 +0200" stop="20260828170000 +0200">
-    <title lang="en">Metal.Rocks</title>
-    <category lang="en">Musik</category>
-  </programme>
   <programme channel="metal-rocks" start="20260828170000 +0200" stop="20260828180000 +0200">
     <title lang="en">Metal.Rocks</title>
     <category lang="en">Musik</category>
@@ -58281,11 +57259,6 @@
   <programme channel="metal-rocks" start="20260902010000 +0200" stop="20260902015959 +0200">
     <title lang="en">Metal.Rocks</title>
     <category lang="en">Musik</category>
-  </programme>
-  <programme channel="moconomy-german" start="20260828155123 +0200" stop="20260828164001 +0200">
-    <title lang="en">Chinas Balkan-Strategie</title>
-    <desc lang="en">Die Dokumentation untersucht, wie rücksichtslos durchgeführte Großprojekte die Umwelt gnadenlos zerstören und wie Chinas „Stille Invasion“ den autoritären Charakter der Westbalkanstaaten festigt, indem sie bewusst die Grundsätze der Rechtsstaatlichkeit verletzt.</desc>
-    <category lang="en">Dokumentarfilm</category>
   </programme>
   <programme channel="moconomy-german" start="20260828164001 +0200" stop="20260828183001 +0200">
     <title lang="en">China vs. USA</title>
@@ -58742,10 +57715,6 @@
     <desc lang="en">The True Cost ist ein Dokumentarfilm, der die Auswirkungen von Mode auf die Menschen und den Planeten untersucht.</desc>
     <category lang="en">Dokumentarfilm</category>
   </programme>
-  <programme channel="moviedome" start="20260828160000 +0200" stop="20260828170000 +0200">
-    <title lang="en">Moviedome</title>
-    <category lang="en">Filme</category>
-  </programme>
   <programme channel="moviedome" start="20260828170000 +0200" stop="20260828180000 +0200">
     <title lang="en">Moviedome</title>
     <category lang="en">Filme</category>
@@ -59164,11 +58133,6 @@
   </programme>
   <programme channel="moviedome" start="20260902010000 +0200" stop="20260902015959 +0200">
     <title lang="en">Moviedome</title>
-    <category lang="en">Filme</category>
-  </programme>
-  <programme channel="moviedome-family" start="20260828160000 +0200" stop="20260828170000 +0200">
-    <title lang="en">Moviedome Family</title>
-    <category lang="en">Family</category>
     <category lang="en">Filme</category>
   </programme>
   <programme channel="moviedome-family" start="20260828170000 +0200" stop="20260828180000 +0200">
@@ -59695,18 +58659,6 @@
     <title lang="en">Moviedome Family</title>
     <category lang="en">Family</category>
     <category lang="en">Filme</category>
-  </programme>
-  <programme channel="mr-bean-live-action" start="20260828153123 +0200" stop="20260828160112 +0200">
-    <title lang="en">Mr Bean</title>
-    <sub-title lang="en">S01 : E06 Mr Bean Live Action</sub-title>
-    <desc lang="en">Mr Bean resuscitates a heart attack victim at the bus stop.</desc>
-    <category lang="en">Serien</category>
-  </programme>
-  <programme channel="mr-bean-live-action" start="20260828160112 +0200" stop="20260828163240 +0200">
-    <title lang="en">Mr Bean</title>
-    <sub-title lang="en">S01 : E07 Mr Bean Live Action</sub-title>
-    <desc lang="en">Mr Bean goes Christmas shopping, conducts a Salvation Army band.</desc>
-    <category lang="en">Serien</category>
   </programme>
   <programme channel="mr-bean-live-action" start="20260828163240 +0200" stop="20260828170313 +0200">
     <title lang="en">Mr Bean</title>
@@ -60974,11 +59926,6 @@
     <desc lang="en">Mr Bean treats himself to a weekend at a posh hotel.</desc>
     <category lang="en">Serien</category>
   </programme>
-  <programme channel="mytime-movie-network-german" start="20260828143510 +0200" stop="20260828161058 +0200">
-    <title lang="en">Liebe, Blasen und Kristallbucht</title>
-    <desc lang="en">Skye führt "Lather and Luxury". Jugendliebe Gavin bringt Verbesserungen. Funken fliegen, Liebe entdeckt.</desc>
-    <category lang="en">Filme</category>
-  </programme>
   <programme channel="mytime-movie-network-german" start="20260828161058 +0200" stop="20260828175504 +0200">
     <title lang="en">Süßer Herbst</title>
     <desc lang="en">Maggie erbt Ahornsüßwarengeschäft mit Dex. Gemeinsam entdecken sie die Wünsche ihrer Tante.</desc>
@@ -61303,10 +60250,6 @@
     <title lang="en">CEDAR COVE EPS 30 - Civil War</title>
     <desc lang="en">Info not available</desc>
     <category lang="en">Filme</category>
-  </programme>
-  <programme channel="nascar" start="20260828160000 +0200" stop="20260828170000 +0200">
-    <title lang="en">NASCAR</title>
-    <category lang="en">Sport</category>
   </programme>
   <programme channel="nascar" start="20260828170000 +0200" stop="20260828180000 +0200">
     <title lang="en">NASCAR</title>
@@ -61727,10 +60670,6 @@
   <programme channel="nascar" start="20260902010000 +0200" stop="20260902015959 +0200">
     <title lang="en">NASCAR</title>
     <category lang="en">Sport</category>
-  </programme>
-  <programme channel="nature-time-deu" start="20260828160000 +0200" stop="20260828170000 +0200">
-    <title lang="en">Nature Time</title>
-    <category lang="en">Dokumentarfilm</category>
   </programme>
   <programme channel="nature-time-deu" start="20260828170000 +0200" stop="20260828180000 +0200">
     <title lang="en">Nature Time</title>
@@ -62487,10 +61426,6 @@
     <desc lang="en">Vera, Ray und Sam werden von schrecklichen Geistern verfolgt. Eine dunkle Macht aus der Vergangenheit verhindert ihr Zusammenleben als glückliche Familie. Verzweifelt versuchen die Eltern alles, um ihren Sohn zu schützen und ein grauenhaftes Geheimnis vor ihm zu verbergen. Doch eine mystische Begegnung zieht sie erneut in eine Welt aus Horror und Angst - grausamer als je zuvor: Dämonen nehmen plötzlich Gestalt an und wollen die Familie ein für alle Mal zerstören.</desc>
     <category lang="en">Filme</category>
   </programme>
-  <programme channel="newsworld-ger" start="20260828160000 +0200" stop="20260828170000 +0200">
-    <title lang="en">NewsWorld</title>
-    <category lang="en">Nachrichten</category>
-  </programme>
   <programme channel="newsworld-ger" start="20260828170000 +0200" stop="20260828180000 +0200">
     <title lang="en">NewsWorld</title>
     <category lang="en">Nachrichten</category>
@@ -62910,16 +61845,6 @@
   <programme channel="newsworld-ger" start="20260902010000 +0200" stop="20260902015959 +0200">
     <title lang="en">NewsWorld</title>
     <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="one-terra" start="20260828151501 +0200" stop="20260828160648 +0200">
-    <title lang="en">Planet Weltweit - Brasilien - Ein Fisch namens Tainha</title>
-    <desc lang="en">Floreanópolis ist für ihre vergleichsweise hohe Lebensqualität und atemberaubenden Strände bekannt. In den Wintermonaten spielt sich an den Stränden ein altes Ritual ab: die Meeräschen-Fischerei.</desc>
-    <category lang="en">Unterhaltung</category>
-  </programme>
-  <programme channel="one-terra" start="20260828160648 +0200" stop="20260828165643 +0200">
-    <title lang="en">Schimpansen im Kongo mit Jane Goodall - Kefans Erfolgsrezept</title>
-    <desc lang="en">Zwei Neuankömmlinge beginnen eine Freundschaft.</desc>
-    <category lang="en">Unterhaltung</category>
   </programme>
   <programme channel="one-terra" start="20260828165643 +0200" stop="20260828174638 +0200">
     <title lang="en">Schimpansen im Kongo mit Jane Goodall - Wie Schimpansen kommunizieren</title>
@@ -63665,20 +62590,6 @@
     <title lang="en">Planet Weltweit - Ein Palast aus Sand - Nepals magische Mandalas</title>
     <desc lang="en">Aus den kargen Bergdörfern des Himalayas zieht es mehr und mehr junge Menschen zu den Heiligen Stätten Buddhas - darunter auch immer mehr Mädchen. Sie praktizieren das "Malen" geheiligter Mandala-Bildnisse mit Sand.</desc>
     <category lang="en">Unterhaltung</category>
-  </programme>
-  <programme channel="palatin-naruto-de" start="20260828154135 +0200" stop="20260828160816 +0200">
-    <title lang="en">Naruto</title>
-    <sub-title lang="en">S01 : E158 Gemeinsam schaffen wir es!</sub-title>
-    <desc lang="en">Ein Überlebenstraining ist angesagt. Zuerst werden Teams gebildet, dann Teamführer bestimmt und ihnen jeweils drei der Jüngsten zugeteilt. Naruto hat in seiner Gruppe Konohamaru, Moegi und Udon, das heißt, es wird keine leichte Aufgabe. Ziel der Übung ist es, am Felsen Warudaku auf dem Berg Takumari eine versteckte Schriftrolle zu suchen und sie nach Konoha-Gakure zurückzubringen. Es wird nur das allernötigste mitgenommen, auch was Nahrung betrifft, und los geht’s. Bei den meisten Teams läuft alles normal, auch wenn es ab und zu Orientierungsprobleme gibt. Naruto möchte allerdings beweisen, was er bisher alles gelernt hat, und bestimmt einfach, auch wenn es sich mal um den falschen Weg...</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Serien</category>
-  </programme>
-  <programme channel="palatin-naruto-de" start="20260828160816 +0200" stop="20260828163545 +0200">
-    <title lang="en">Naruto</title>
-    <sub-title lang="en">S01 : E159 Ein Dieb und ein Rätsel</sub-title>
-    <desc lang="en">Naruto, Kiba und Hinata werden von Tsunade auf eine Mission geschickt. Sie sollen Gosunkugi, den Dieb einer wertvollen Teeschale, ausfindig machen und verhaften. Im Reich der Steine angekommen, landen sie in einer Bar, wo sie auf Sazanmi treffen, einen wenig vertrauenswürdigen Zeitgenossen. Er lockt sie aus der Stadt, denn er hat es auch auf Gosunkugi abgesehen und will ihn vor den anderen fangen. Doch nachdem er das Team abgehängt hat, begegnet ihm Gosunkugi und der besiegt ihn. Naruto und Co. finden Sazanami und bringen ihn die Stadt zurück, doch dort wartet schon die nächste Überraschung auf die Freunde…</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Serien</category>
   </programme>
   <programme channel="palatin-naruto-de" start="20260828163545 +0200" stop="20260828170240 +0200">
     <title lang="en">Naruto</title>
@@ -65332,18 +64243,6 @@
     <category lang="en">Anime</category>
     <category lang="en">Serien</category>
   </programme>
-  <programme channel="pastewka" start="20260828155812 +0200" stop="20260828162509 +0200">
-    <title lang="en">Pastewka</title>
-    <sub-title lang="en">S07 : E06 Der Patient</sub-title>
-    <desc lang="en">Bastian gibt vor, eine verschleppte Erkältung zu haben, um sich so vor dem Deutschen Fernsehpreis zu drücken, den er mit Anke Engelke zusammen in albernen Sketchup-Kostümen moderieren soll.</desc>
-    <category lang="en">Unterhaltung</category>
-  </programme>
-  <programme channel="pastewka" start="20260828162509 +0200" stop="20260828165145 +0200">
-    <title lang="en">Pastewka</title>
-    <sub-title lang="en">S07 : E07 Der Standup</sub-title>
-    <desc lang="en">Bastian schaut sich im Autohaus nach einem neuen Wagen um und trifft dort unerwartet auf Johann König. Die beiden kommen ins Gespräch, und Bastian wird inspiriert, auch Stand-up zu machen, weil es gutes Geld verspricht.</desc>
-    <category lang="en">Unterhaltung</category>
-  </programme>
   <programme channel="pastewka" start="20260828165145 +0200" stop="20260828171828 +0200">
     <title lang="en">Pastewka</title>
     <sub-title lang="en">S07 : E08 Die Ohrfeige</sub-title>
@@ -66584,18 +65483,6 @@
     <desc lang="en">Der Morgen nach dem Deutschen Filmpreis. Bastian wacht verkatert und mit totalem Blackout in einem Hotelzimmer auf. Das letzte, woran er sich erinnern kann, ist „Senta“…</desc>
     <category lang="en">Unterhaltung</category>
   </programme>
-  <programme channel="people-are-awesome-new" start="20260828154950 +0200" stop="20260828162150 +0200">
-    <title lang="en">Exhibition Awesome</title>
-    <sub-title lang="en">S08 : E08 Exhibition Awesome | The Home Circus</sub-title>
-    <desc lang="en">Whether they're under the big top or at home, these amazing folks have some pretty incredible skills!</desc>
-    <category lang="en">Unterhaltung</category>
-  </programme>
-  <programme channel="people-are-awesome-new" start="20260828162150 +0200" stop="20260828165350 +0200">
-    <title lang="en">Exhibition Awesome</title>
-    <sub-title lang="en">S08 : E09 Exhibition Awesome | The Great Outdoors</sub-title>
-    <desc lang="en">Anytime, anywhere, these people can show off their skills!</desc>
-    <category lang="en">Unterhaltung</category>
-  </programme>
   <programme channel="people-are-awesome-new" start="20260828165350 +0200" stop="20260828172550 +0200">
     <title lang="en">Adventure/Anywhere</title>
     <sub-title lang="en">S01 : E09 Adventure/Anywhere | Slip &amp; Slide, Winter Sports &amp; Kayaking</sub-title>
@@ -67784,11 +66671,6 @@
     <desc lang="en">Extraordinary feats are no problem for these talented athletes.</desc>
     <category lang="en">Unterhaltung</category>
   </programme>
-  <programme channel="qello-concerts-by-stingray" start="20260828150001 +0200" stop="20260828160001 +0200">
-    <title lang="en">Qello Concerts by Stingray - DE</title>
-    <desc lang="en">Qello Concerts by Stingray - DE</desc>
-    <category lang="en">Musik</category>
-  </programme>
   <programme channel="qello-concerts-by-stingray" start="20260828160001 +0200" stop="20260828170001 +0200">
     <title lang="en">Qello Concerts by Stingray - DE</title>
     <desc lang="en">Qello Concerts by Stingray - DE</desc>
@@ -68319,10 +67201,6 @@
     <desc lang="en">Qello Concerts by Stingray - DE</desc>
     <category lang="en">Musik</category>
   </programme>
-  <programme channel="qwest-tv" start="20260828160000 +0200" stop="20260828170000 +0200">
-    <title lang="en">Qwest TV</title>
-    <category lang="en">Musik</category>
-  </programme>
   <programme channel="qwest-tv" start="20260828170000 +0200" stop="20260828180000 +0200">
     <title lang="en">Qwest TV</title>
     <category lang="en">Musik</category>
@@ -68742,18 +67620,6 @@
   <programme channel="qwest-tv" start="20260902010000 +0200" stop="20260902015959 +0200">
     <title lang="en">Qwest TV</title>
     <category lang="en">Musik</category>
-  </programme>
-  <programme channel="racer-international" start="20260828153001 +0200" stop="20260828160001 +0200">
-    <title lang="en">Stacey David's GearZ</title>
-    <sub-title lang="en">S18 : E06 Stacey David's GearZ: Swamp Spryte: Making Tracks</sub-title>
-    <desc lang="en">The Thiokol Swamp Spryte is back in the shop for some much-needed restoration.</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme channel="racer-international" start="20260828160001 +0200" stop="20260828163001 +0200">
-    <title lang="en">Stacey David's GearZ</title>
-    <sub-title lang="en">S19 : E05 The Dirt Bird</sub-title>
-    <desc lang="en">Stacey shows what it takes to make a high-end replica of a down-and-dirty car.</desc>
-    <category lang="en">Sport</category>
   </programme>
   <programme channel="racer-international" start="20260828163001 +0200" stop="20260828170001 +0200">
     <title lang="en">Stacey David's GearZ</title>
@@ -70391,11 +69257,6 @@
     <category lang="en">Korean</category>
     <category lang="en">Serien</category>
   </programme>
-  <programme channel="rally-tv-fast" start="20260828140005 +0200" stop="20260828160005 +0200">
-    <title lang="en">Rally TV</title>
-    <desc lang="en">Rally TV</desc>
-    <category lang="en">Sport</category>
-  </programme>
   <programme channel="rally-tv-fast" start="20260828160005 +0200" stop="20260828180005 +0200">
     <title lang="en">Rally TV</title>
     <desc lang="en">Rally TV</desc>
@@ -70659,11 +69520,6 @@
   <programme channel="rally-tv-fast" start="20260902000005 +0200" stop="20260902020000 +0200">
     <title lang="en">Rally TV</title>
     <desc lang="en">Rally TV</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme channel="red-bull-tv-en" start="20260828153453 +0200" stop="20260828163432 +0200">
-    <title lang="en">ACTION: Red Bull Soapbox Race – 50 Fastest Runs</title>
-    <desc lang="en">Laugh along with our edit of 50 of the fastest, most fearless runs from Red Bull Soapbox Race 2014-2025.</desc>
     <category lang="en">Sport</category>
   </programme>
   <programme channel="red-bull-tv-en" start="20260828163432 +0200" stop="20260828174004 +0200">
@@ -72045,12 +70901,6 @@
     <category lang="en">LGBTQIA+</category>
     <category lang="en">Unterhaltung</category>
   </programme>
-  <programme channel="river-monsters-de" start="20260828151736 +0200" stop="20260828161048 +0200">
-    <title lang="en">Fluss Monsters</title>
-    <sub-title lang="en">S06 : E05 Der tödliche Dourado</sub-title>
-    <desc lang="en">In Argentinien macht Jeremy Wade Jagd auf ein bösartiges Raubtier, den so genannten "Flusstiger".</desc>
-    <category lang="en">Reality Shows</category>
-  </programme>
   <programme channel="river-monsters-de" start="20260828161048 +0200" stop="20260828170241 +0200">
     <title lang="en">Fluss Monsters</title>
     <sub-title lang="en">S06 : E01 Die Titanic des Amazonas</sub-title>
@@ -72783,11 +71633,6 @@
     <desc lang="en">Jeremy Wade begibt sich in Thailand auf die Suche nach dem 300 Kilo schweren Süßwasser-Stechrochen.</desc>
     <category lang="en">Reality Shows</category>
   </programme>
-  <programme channel="royalworld-de" start="20260828152210 +0200" stop="20260828161603 +0200">
-    <title lang="en">Die Ahnen der Queen</title>
-    <desc lang="en">Anlässlich des 60. Jahrestages der Krönung von Königin Elisabeth II. von England erforscht diese arte-Dokumentation die deutschen Wurzeln des britischen Königshauses und zeigt, wie das Haus Sachsen-Coburg-Gotha zum Königsmacher Europas wurde.</desc>
-    <category lang="en">Dokumentarfilm</category>
-  </programme>
   <programme channel="royalworld-de" start="20260828162048 +0200" stop="20260828171710 +0200">
     <title lang="en">Die Schwiegermutter der Queen</title>
     <desc lang="en">Diese Geschichte über die außergewöhnliche Prinzessin Alice wirft mehr Licht auf die Entwicklung von Prinz Philip als alles andere. Alice wurde auf Schloss Windsor geboren, heiratete in die griechische Königsfamilie ein und blieb dem Land bis zu ihrem Tod eng verbunden. Sie war taub, mutig und zielstrebig, litt jedoch an einer Geisteskrankheit, die zu einer schmerzhaften Trennung von ihrem einzigen Sohn Philip führte.</desc>
@@ -73227,16 +72072,6 @@
     <title lang="en">Briefe von Königin Victoria</title>
     <desc lang="en">Dies ist die Geschichte von Königin Victoria, wie man sie noch nie zuvor gehört hat; ein psychologischer Einblick in die Frau, erzählt durch ihre eigenen Worte, ihre Erlebnisse, die ausschließlich durch ihre persönlichen Tagebücher und Briefe wiedergegeben werden.</desc>
     <category lang="en">Dokumentarfilm</category>
-  </programme>
-  <programme channel="spiegel-tv" start="20260828155243 +0200" stop="20260828162104 +0200">
-    <title lang="en">Wer war Albert Speer? - Der Architekt des Dritten Reiches</title>
-    <desc lang="en">Lange galt er als der »gute Nazi«: Albert Speer, Adolf Hitlers persönlicher Architekt und Vertrauter. Doch in Wahrheit war er einer der führenden Nazis: Als Rüstungsminister war er für die Beschäftigung von sieben Millionen Zwangsarbeitern mitverantwortlich, darunter etwa 450.000 KZ-Häftlinge. Außerdem hatte Speer maßgeblichen Einfluss auf den Betrieb und den Ausbau der Konzentrationslager. (10.02.2024)</desc>
-    <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="spiegel-tv" start="20260828162104 +0200" stop="20260828163411 +0200">
-    <title lang="en">Wir drehen eine Runde: VW ID.7 im Test - Was kann Volkswagens Elektro-Primus?</title>
-    <desc lang="en">Mit der Fünf-Meter-Limousine ID.7 krönt VW seine Elektroflotte. Das Auto aus dem Werk im ostfriesischen Emden ist geräumig und sogar ein wenig glamourös. Die Angabe zur Reichweite wirft aber Fragen auf. (03.02.2024)</desc>
-    <category lang="en">Nachrichten</category>
   </programme>
   <programme channel="spiegel-tv" start="20260828163411 +0200" stop="20260828170616 +0200">
     <title lang="en">Neue Bäume und tote Hirsche: Die Aufforstung der Highlands</title>
@@ -74947,18 +73782,6 @@
     <title lang="en">Andrij Melnyk im Spitzengespräch: »Ich habe viel kaputt gemacht«</title>
     <desc lang="en">Er war der undiplomatischste Diplomat, den Deutschland je gesehen hat: Im SPIEGEL-Talk spricht Andrij Melnyk über persönliche Fehler, verrät, welche Aussage er bereut – und wen er sich als Vermittler mit Putin wünscht. (09.07.2026)</desc>
     <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="spiegel-tv-action-crime" start="20260828154017 +0200" stop="20260828162431 +0200">
-    <title lang="en">Im Verhör: »Mocro-Mafia« (3) – Die Folter-Container der Unterwelt</title>
-    <desc lang="en">»Wir brauchen Zangen für Finger und Zehen«. So lautet die Bestellung des Drogenbosses bei EncroChat. Der Mann mit dem Spitznamen »Piet Costa« will sich rächen. Es geht um 84 Millionen Dollar, die ihm jemand entwendet hat. Er lässt ein Foltercontainerdorf bauen, besticht Interpol und plant, die Familien seiner Gegner zwecks Erpressung zu entführen. In der dritten Episode zur sogenannten »Mocro-Mafia« rekonstruieren Host Christina Pohl und SPIEGEL-TV-Reporter Claas Meyer-Heuer die Verbrechen anhand der Chats aus der Unterwelt. (13.12.2025)</desc>
-    <category lang="en">Crime</category>
-    <category lang="en">Unterhaltung</category>
-  </programme>
-  <programme channel="spiegel-tv-action-crime" start="20260828162431 +0200" stop="20260828164343 +0200">
-    <title lang="en">Frontbericht aus der Ukraine: Krieg statt Friedensverhandlung</title>
-    <desc lang="en">Während die Menschen in der Ukraine ihre entführten Kinder vermissen und jeden Tag mit Raketen und Drohnen angegriffen werden, lässt der Strippenzieher, der all das beenden könnte, weltweit die Puppen tanzen: Die Unterhändler-Marionetten von Dealmaker Trump, das Chaos-Ensemble europäischer Regierungschef, bekannt als »Koalition der Willigen« und den mittlerweile fast kaputt gespielten Selenskyj. Nichts davon deutet darauf hin, dass Putin – wie erhofft – ein »ernsthaftes Engagement für einen langfristigen Frieden« erkennen ließe. Stattdessen verkündet er, dass er den Süden der Ukraine – den er jetzt »Neurussland« nennt – auch noch haben will. Unser Reporter Andreas Lünser und sein Kameramann Jochen Blum waren genau dort unterwegs. (08.12.2025)</desc>
-    <category lang="en">Crime</category>
-    <category lang="en">Unterhaltung</category>
   </programme>
   <programme channel="spiegel-tv-action-crime" start="20260828164343 +0200" stop="20260828174056 +0200">
     <title lang="en">Im Verhör: »Mocro-Mafia« (2) - Chats, Tote und ein Kronzeuge</title>
@@ -76922,12 +75745,6 @@
     <category lang="en">Crime</category>
     <category lang="en">Unterhaltung</category>
   </programme>
-  <programme channel="spiegeltv-konflikte" start="20260828155204 +0200" stop="20260828164736 +0200">
-    <title lang="en">Frontgefährten - Tiere im Krieg</title>
-    <sub-title lang="en">S01 : E01 Das Ende der Kavallerie - vom Pferd zum Panzer</sub-title>
-    <desc lang="en">In den beiden großen Weltkriegen spielten vor allem die Pferde eine entscheidende Rolle.</desc>
-    <category lang="en">Dokumentarfilm</category>
-  </programme>
   <programme channel="spiegeltv-konflikte" start="20260828164736 +0200" stop="20260828173905 +0200">
     <title lang="en">Frontgefährten - Tiere im Krieg</title>
     <sub-title lang="en">S01 : E02 Kriegskamerad Tier - Mythos und Heldenverehrung</sub-title>
@@ -77598,12 +76415,6 @@
     <desc lang="en">Ende der 1990er Jahre betreiben die Russos einen profitablen Drogenhandel. Um in der Rangliste der Camorra aufzusteigen, unterstützt Anna Russo ihren Bruder Alfredo dabei, die Kontrolle über das Gebiet zu übernehmen. Es beginnt ein blutiger Kampf um die Vorherrschaft. Schließlich wird Anna selbst für ihren Bruder zur Bedrohung.</desc>
     <category lang="en">Dokumentarfilm</category>
   </programme>
-  <programme channel="spooks-deu" start="20260828152517 +0200" stop="20260828162713 +0200">
-    <title lang="en">Spooks</title>
-    <sub-title lang="en">S03 : E07 Außenseiter</sub-title>
-    <desc lang="en">Der MI5 wird alarmiert, als er entdeckt, dass sich eine Gruppe in Computersysteme im ganzen Land einhackt.</desc>
-    <category lang="en">Serien</category>
-  </programme>
   <programme channel="spooks-deu" start="20260828162713 +0200" stop="20260828172906 +0200">
     <title lang="en">Spooks</title>
     <sub-title lang="en">S04 : E06 Die Unschuldigen</sub-title>
@@ -78222,11 +77033,6 @@
     <desc lang="en">Lucas wird von seiner Vergangenheit eingeholt, als sein ehemaliger Folterer mit Informationen über einen Terroranschlag auftaucht.</desc>
     <category lang="en">Serien</category>
   </programme>
-  <programme channel="sportdigital-free" start="20260828132501 +0200" stop="20260828162001 +0200">
-    <title lang="en">MLB: New York Yankees - Minnesota Twins</title>
-    <desc lang="en">In der MLB treffen die New York Yankees auf die Minnesota Twins. Wer kann dieses Duell für sich entscheiden?</desc>
-    <category lang="en">Sport</category>
-  </programme>
   <programme channel="sportdigital-free" start="20260828162001 +0200" stop="20260828200001 +0200">
     <title lang="en">NASCAR: Crash kurz vor der Zielliene! AdventHealth 400 Full Race</title>
     <desc lang="en">NASCAR Cup Series gibt es ein wildes Kansas-Rennen mit irren Wendungen. Wer gewinnt das AdvenHealth 400?</desc>
@@ -78645,12 +77451,6 @@
   <programme channel="sportdigital-free" start="20260902005501 +0200" stop="20260902020000 +0200">
     <title lang="en">6 Nations: Schottland - Wales</title>
     <desc lang="en">6 Nations 2025, Runde 4 - Schottland muss in diesem Spiel gegen Wales seiner Favoritenrolle gerecht werden und den nächsten Erfolg beim Six Nations Turnier einfahren.</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme channel="sports-illustrated-tv" start="20260828151505 +0200" stop="20260828164505 +0200">
-    <title lang="en">The MMQB - LIVE at NY Giants Camp</title>
-    <sub-title lang="en">S01 : E01 The MMQB - LIVE at NY Giants Camp</sub-title>
-    <desc lang="en">Conor Orr and Albert Breer go live from Giants camp with Jaxson Dart, John Harbaugh and GM Joe Schoen.</desc>
     <category lang="en">Sport</category>
   </programme>
   <programme channel="sports-illustrated-tv" start="20260828164505 +0200" stop="20260828170005 +0200">
@@ -79225,10 +78025,6 @@
     <desc lang="en">Teams covered in this episode: Wendell Phillips, Samoa, Friendship, Prepa Tec, Joplin, Fort Campbell.</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme channel="stand-up-comedy" start="20260828160000 +0200" stop="20260828170000 +0200">
-    <title lang="en">Stand-up Comedy</title>
-    <category lang="en">Unterhaltung</category>
-  </programme>
   <programme channel="stand-up-comedy" start="20260828170000 +0200" stop="20260828180000 +0200">
     <title lang="en">Stand-up Comedy</title>
     <category lang="en">Unterhaltung</category>
@@ -79649,11 +78445,6 @@
     <title lang="en">Stand-up Comedy</title>
     <category lang="en">Unterhaltung</category>
   </programme>
-  <programme channel="stingray-80s-90s-pop-de" start="20260828140001 +0200" stop="20260828160001 +0200">
-    <title lang="en">80's &amp; 90's German Pop</title>
-    <desc lang="en">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
-    <category lang="en">Musik</category>
-  </programme>
   <programme channel="stingray-80s-90s-pop-de" start="20260828160001 +0200" stop="20260828180001 +0200">
     <title lang="en">80's &amp; 90's German Pop</title>
     <desc lang="en">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
@@ -79919,11 +78710,6 @@
     <desc lang="en">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
     <category lang="en">Musik</category>
   </programme>
-  <programme channel="stingray-greatest-hits" start="20260828120001 +0200" stop="20260828160001 +0200">
-    <title lang="en">Stingray Greatest Hits</title>
-    <desc lang="en">Dive into an eclectic mix of the most iconic tracks from the '70s to today, and discover the hits that defined generations.</desc>
-    <category lang="en">Musik</category>
-  </programme>
   <programme channel="stingray-greatest-hits" start="20260828160001 +0200" stop="20260828200001 +0200">
     <title lang="en">Stingray Greatest Hits</title>
     <desc lang="en">Dive into an eclectic mix of the most iconic tracks from the '70s to today, and discover the hits that defined generations.</desc>
@@ -80052,11 +78838,6 @@
   <programme channel="stingray-greatest-hits" start="20260902000001 +0200" stop="20260902040000 +0200">
     <title lang="en">Stingray Greatest Hits</title>
     <desc lang="en">Dive into an eclectic mix of the most iconic tracks from the '70s to today, and discover the hits that defined generations.</desc>
-    <category lang="en">Musik</category>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260828120001 +0200" stop="20260828160001 +0200">
-    <title lang="en">Stingray Hit List</title>
-    <desc lang="en">Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
     <category lang="en">Musik</category>
   </programme>
   <programme channel="stingray-hit-list" start="20260828160001 +0200" stop="20260828200001 +0200">
@@ -80807,11 +79588,6 @@
     <category lang="en">Lifestyle</category>
     <category lang="en">Slow TV</category>
   </programme>
-  <programme channel="stingray-remember-the-80-s" start="20260828120001 +0200" stop="20260828160001 +0200">
-    <title lang="en">Stingray Remember the '80s</title>
-    <desc lang="en">Relive the decade of perms and shoulder pads! The unmistakable synth pop sound of artists such as Michael Jackson, George Michael, and Whitney Houston is bound to remind you of all your greatest '80s memories!</desc>
-    <category lang="en">Musik</category>
-  </programme>
   <programme channel="stingray-remember-the-80-s" start="20260828160001 +0200" stop="20260828200001 +0200">
     <title lang="en">Stingray Remember the '80s</title>
     <desc lang="en">Relive the decade of perms and shoulder pads! The unmistakable synth pop sound of artists such as Michael Jackson, George Michael, and Whitney Houston is bound to remind you of all your greatest '80s memories!</desc>
@@ -80945,11 +79721,6 @@
   <programme channel="stingray-remember-the-80-s" start="20260902000001 +0200" stop="20260902040000 +0200">
     <title lang="en">Stingray Remember the '80s</title>
     <desc lang="en">Relive the decade of perms and shoulder pads! The unmistakable synth pop sound of artists such as Michael Jackson, George Michael, and Whitney Houston is bound to remind you of all your greatest '80s memories!</desc>
-    <category lang="en">Musik</category>
-  </programme>
-  <programme channel="stingray-schlager-de" start="20260828140001 +0200" stop="20260828160001 +0200">
-    <title lang="en">Schlager</title>
-    <desc lang="en">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
     <category lang="en">Musik</category>
   </programme>
   <programme channel="stingray-schlager-de" start="20260828160001 +0200" stop="20260828180001 +0200">
@@ -81216,12 +79987,6 @@
     <title lang="en">Schlager</title>
     <desc lang="en">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
     <category lang="en">Musik</category>
-  </programme>
-  <programme channel="stromberg" start="20260828155829 +0200" stop="20260828163104 +0200">
-    <title lang="en">Stromberg</title>
-    <sub-title lang="en">S05 : E09 Der Rodach-Bonus</sub-title>
-    <desc lang="en">Stromberg versucht Jennifer von seinen Vaterqualitäten zu überzeugen. Er ist bereit Verantwortung zu übernehmen. Stromberg beweist das, indem er bei Personalchef Nübel einen Fehler, den Ulf begangen hat, auf seine Kappe nimmt. Allerdings ahnt Stromberg nicht, was das für Konsequenzen hat. Parallel versucht Ernie, nach seiner Blamage beim Pfarrer, doch wieder in der Gemeinde Fuß zu fassen ... (P) Unterstützt durch Produktplatzierung</desc>
-    <category lang="en">Unterhaltung</category>
   </programme>
   <programme channel="stromberg" start="20260828163104 +0200" stop="20260828170347 +0200">
     <title lang="en">Stromberg</title>
@@ -82333,12 +81098,6 @@
     <desc lang="en">Tanja hat ein neues Abrechnungssystem entwickelt und überhaupt scheint sie sich ganz gut in ihre neue Funktion reingefuchst zu haben. Sie ist fest entschlossen, karrieremäßig doch noch mal was zu Reißen.</desc>
     <category lang="en">Unterhaltung</category>
   </programme>
-  <programme channel="strongman-champions-league-de" start="20260828150038 +0200" stop="20260828160057 +0200">
-    <title lang="en">Strongman Champions League</title>
-    <sub-title lang="en">S04 : E07 SCL Kanada (Teil 2)</sub-title>
-    <desc lang="en">Willkommen zum zweiten Tag in Quebec. Die Athleten kämpfen hart um den Sieg in dieser zweitägigen Veranstaltung. Die letzten Punkte dieser SCL-Etappe können in vier herausragenden Disziplinen gewonnen werden: Power Stairs, Kurzhanteldrücken, Faßwerfen und schließlich dem legendären Farmer's Walk. Wer wird Kanada mit dem gelben ‚Spitzenreiter-Shirt‘ verlassen?</desc>
-    <category lang="en">Sport</category>
-  </programme>
   <programme channel="strongman-champions-league-de" start="20260828160057 +0200" stop="20260828170145 +0200">
     <title lang="en">Strongman Champions League</title>
     <sub-title lang="en">S04 : E08 SCL Finnland (Teil 1)</sub-title>
@@ -82992,12 +81751,6 @@
     <sub-title lang="en">S01 : E03 SCL Serbien</sub-title>
     <desc lang="en">Die dritte Folge ist zu Gast in Serbien. Hier werden Weltrekorde gebrochen!</desc>
     <category lang="en">Sport</category>
-  </programme>
-  <programme channel="swamp-people-deu" start="20260828152511 +0200" stop="20260828161648 +0200">
-    <title lang="en">Swamp People</title>
-    <sub-title lang="en">S02 : E09 Full Moon Fever</sub-title>
-    <desc lang="en">Swamp night: Joe, Tommy scout gators, shrimp. Others seek snakes, frogs.</desc>
-    <category lang="en">Reality Shows</category>
   </programme>
   <programme channel="swamp-people-deu" start="20260828161648 +0200" stop="20260828170825 +0200">
     <title lang="en">Swamp People</title>
@@ -83743,12 +82496,6 @@
     <desc lang="en">Troy's dilemma &amp; friend's death; R.J. and Jay Paul aim for 500 tags in 4 days.</desc>
     <category lang="en">Reality Shows</category>
   </programme>
-  <programme channel="taterjagd" start="20260828152513 +0200" stop="20260828161758 +0200">
-    <title lang="en">Täterjagd</title>
-    <sub-title lang="en">S03 : E09 Täterjagd</sub-title>
-    <desc lang="en">Am frühen Morgen des 26. Juni 2005 wird auf einem Teknival-Gelände in der Bretagne die achtzehnjährige Mathilde Croguennec mit durchgeschnittener Kehle am Fuß eines Baumes gefunden.</desc>
-    <category lang="en">Unterhaltung</category>
-  </programme>
   <programme channel="taterjagd" start="20260828161758 +0200" stop="20260828171012 +0200">
     <title lang="en">Täterjagd</title>
     <sub-title lang="en">S03 : E10 Täterjagd</sub-title>
@@ -84493,10 +83240,6 @@
     <desc lang="en">13. Oktober 1996. Die Leiche der erst 18jährigen Angélique Dumetz wird in einem Graben in einem Wald in Oise gefunden.</desc>
     <category lang="en">Unterhaltung</category>
   </programme>
-  <programme channel="telenovela-zdf" start="20260828160000 +0200" stop="20260828170000 +0200">
-    <title lang="en">Telenovela ZDF</title>
-    <category lang="en">Serien</category>
-  </programme>
   <programme channel="telenovela-zdf" start="20260828170000 +0200" stop="20260828180000 +0200">
     <title lang="en">Telenovela ZDF</title>
     <category lang="en">Serien</category>
@@ -84916,11 +83659,6 @@
   <programme channel="telenovela-zdf" start="20260902010000 +0200" stop="20260902015959 +0200">
     <title lang="en">Telenovela ZDF</title>
     <category lang="en">Serien</category>
-  </programme>
-  <programme channel="tempora" start="20260828153227 +0200" stop="20260828162416 +0200">
-    <title lang="en">Der Zweite Weltkrieg - Schlacht um Europa - Folge 3: Operation Cobra</title>
-    <desc lang="en">Durch ihre Landung in der Normandie haben die Alliierten einen ersten Brückenkopf errichtet. Der Weg zur Befreiung Frankreichs und ganz Europas von der Nazi-Herrschaft ist allerdings noch weit. Erst nach wochenlangem Stellungskrieg bringt im Juli die „Operation Cobra“ bei Saint-Lô einen ersten entscheidenden Durchbruch. „Der Zweite Weltkrieg – Schlacht um Europa“ lässt Veteranen beider Seiten zu Wort kommen und beleuchtet darüber hinaus die Folgen des Attentats auf Hitler am 20. Juli.</desc>
-    <category lang="en">Dokumentarfilm</category>
   </programme>
   <programme channel="tempora" start="20260828162416 +0200" stop="20260828173542 +0200">
     <title lang="en">Deutschland bevor die Bomben fielen - Deutschland vor dem Krieg</title>
@@ -85718,11 +84456,6 @@
     <desc lang="en">Semifinal Adolfo Daniel Vallejo (PAR) vs. Jaume Munar (SPA)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme channel="tennis-plus" start="20260828153703 +0200" stop="20260828160705 +0200">
-    <title lang="en">Australian Open Classic Match</title>
-    <sub-title lang="en">S1995 : E09 AO93 Women's Final - Seles v Graf</sub-title>
-    <desc lang="en">Watch the condensed classic match of the Australian Open 1993 Women's Final - Monica Seles v Steffi Graf</desc>
-  </programme>
   <programme channel="tennis-plus" start="20260828160705 +0200" stop="20260828185329 +0200">
     <title lang="en">Australian Open Full Match</title>
     <sub-title lang="en">S2025 : E25 AO25 Men's Third Round - Alcaraz v Borges</sub-title>
@@ -85977,11 +84710,6 @@
     <title lang="en">Australian Open Full Match</title>
     <sub-title lang="en">S2001 : E05 AO01 Men's Semifinal - Rafter v Agassi</sub-title>
     <desc lang="en">Full Match of Australian Open 2001 Men's Semifinal - Pat Rafter v Andre Agassi</desc>
-  </programme>
-  <programme channel="terra-mater-wild" start="20260828153039 +0200" stop="20260828163025 +0200">
-    <title lang="en">Die Prärie - Rückkehr der Wildnis</title>
-    <desc lang="en">Die Prärie gilt als die Serengeti Nordamerikas - eine Wildnis, die in Veränderungen erfahren hat.</desc>
-    <category lang="en">Dokumentarfilm</category>
   </programme>
   <programme channel="terra-mater-wild" start="20260828163025 +0200" stop="20260828172952 +0200">
     <title lang="en">Masai Mara: The Big Hunt</title>
@@ -87746,18 +86474,6 @@
     <desc lang="en">Rock &amp; Roll started as a rebellion and Nicky Horne brings you the 25 people who pushed all the boundaries &amp; refused to conform! These are greatest Rock Rebels of all time!</desc>
     <category lang="en">Musik</category>
   </programme>
-  <programme channel="the-design-network-new" start="20260828153001 +0200" stop="20260828160001 +0200">
-    <title lang="en">Alt Home</title>
-    <sub-title lang="en">S01 : E04 Once Upon a Time: Fairy Tale Homes</sub-title>
-    <desc lang="en">Jillian explores some of the most whimsical homes in Southern California.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme channel="the-design-network-new" start="20260828160001 +0200" stop="20260828163001 +0200">
-    <title lang="en">Alt Home</title>
-    <sub-title lang="en">S01 : E05 From Cats to Co-Living: A Place for Everyone</sub-title>
-    <desc lang="en">Jillian dives into community living, exploring how we create spaces that bring us closer together.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
   <programme channel="the-design-network-new" start="20260828163001 +0200" stop="20260828173001 +0200">
     <title lang="en">Homeworthy: The Collection</title>
     <sub-title lang="en">S01 : E08 European Getaway in the Heart of Tennessee</sub-title>
@@ -88261,18 +86977,6 @@
     <sub-title lang="en">S01 : E04 Melba Wilson: A Harlem Icon</sub-title>
     <desc lang="en">Chef and restaurateur Melba Wilson schools Matthew on the art of her legendary shrimp and grits.</desc>
     <category lang="en">Lifestyle</category>
-  </programme>
-  <programme channel="the-pet-collective-new" start="20260828153013 +0200" stop="20260828160213 +0200">
-    <title lang="en">Animals Unscripted</title>
-    <sub-title lang="en">S01 : E13 Animals Unscripted | Hair of the Dog</sub-title>
-    <desc lang="en">You know what they say: there's no better cure for a hangover than 30 minutes of hilarious dogs.</desc>
-    <category lang="en">Unterhaltung</category>
-  </programme>
-  <programme channel="the-pet-collective-new" start="20260828160213 +0200" stop="20260828163413 +0200">
-    <title lang="en">Best Pets of the Month</title>
-    <sub-title lang="en">S04 : E02 Best Pets of the Month | Ep. 4.2</sub-title>
-    <desc lang="en">These pets won February '21. But after watching these clips, the real winner is you.</desc>
-    <category lang="en">Unterhaltung</category>
   </programme>
   <programme channel="the-pet-collective-new" start="20260828163413 +0200" stop="20260828170613 +0200">
     <title lang="en">Best Pets of the Month</title>
@@ -89480,10 +88184,6 @@
     <desc lang="en">These pets won April '20. But after watching these clips, the real winner is you.</desc>
     <category lang="en">Unterhaltung</category>
   </programme>
-  <programme channel="the-reuters-60" start="20260828160000 +0200" stop="20260828170000 +0200">
-    <title lang="en">The Reuters 60</title>
-    <category lang="en">Nachrichten</category>
-  </programme>
   <programme channel="the-reuters-60" start="20260828170000 +0200" stop="20260828180000 +0200">
     <title lang="en">The Reuters 60</title>
     <category lang="en">Nachrichten</category>
@@ -89903,16 +88603,6 @@
   <programme channel="the-reuters-60" start="20260902010000 +0200" stop="20260902015959 +0200">
     <title lang="en">The Reuters 60</title>
     <category lang="en">Nachrichten</category>
-  </programme>
-  <programme channel="tierwelt" start="20260828152247 +0200" stop="20260828161247 +0200">
-    <title lang="en">Die vier Jahreszeiten</title>
-    <desc lang="en">Keine Region ist so wandelbar wie der sommergrüne Laubwald. Jedes Jahr durchläuft er einschneidende Veränderungen. Seine jahreszeitlichen Anpassungen machen unsere Wälder so abwechslungsreich und dynamisch.</desc>
-    <category lang="en">Unterhaltung</category>
-  </programme>
-  <programme channel="tierwelt" start="20260828161247 +0200" stop="20260828162105 +0200">
-    <title lang="en">Der lange Weg zur Freiheit</title>
-    <desc lang="en">Wisente aus dem Berliner Tierpark finden in den schier unendlichen Wäldern des Kaukasus eine neue Heimat. Ein tierisches Roadmovie.</desc>
-    <category lang="en">Unterhaltung</category>
   </programme>
   <programme channel="tierwelt" start="20260828162105 +0200" stop="20260828170412 +0200">
     <title lang="en">Wilde Türkei (2)</title>
@@ -91069,10 +89759,6 @@
     <desc lang="en">Neuschnee im Sommer – in Norwegens Tundren und Hochebenen hat sich bis heute ein Stück Eiszeit bewahrt: Gewaltige Gletscher schufen das Land, hobelten Gebirge ab und meißelten tiefe Fjorde aus dem Fels.</desc>
     <category lang="en">Unterhaltung</category>
   </programme>
-  <programme channel="top-barca-eng" start="20260828160000 +0200" stop="20260828170000 +0200">
-    <title lang="en">TOP Barça</title>
-    <category lang="en">Sport</category>
-  </programme>
   <programme channel="top-barca-eng" start="20260828170000 +0200" stop="20260828180000 +0200">
     <title lang="en">TOP Barça</title>
     <category lang="en">Sport</category>
@@ -91778,11 +90464,6 @@
     <desc lang="en">Ein gefährlicher Auftragskiller soll einen Teenager jagen und töten, bevor das FBI ihn zu fassen bekommt. Der Junge wurde Zeuge am Mord seines kleinkriminellen Bruders, nachdem dieser den lokalen Gangsterboss reinlegen wollte. Doch beim Hitman meldet sich immer häufiger sein Gewissen.</desc>
     <category lang="en">Filme</category>
   </programme>
-  <programme channel="top-sci-fi-de" start="20260828160000 +0200" stop="20260828170000 +0200">
-    <title lang="en">TOP SCI-FI</title>
-    <category lang="en">Filme</category>
-    <category lang="en">Serien</category>
-  </programme>
   <programme channel="top-sci-fi-de" start="20260828170000 +0200" stop="20260828180000 +0200">
     <title lang="en">TOP SCI-FI</title>
     <category lang="en">Filme</category>
@@ -92307,18 +90988,6 @@
     <title lang="en">TOP SCI-FI</title>
     <category lang="en">Filme</category>
     <category lang="en">Serien</category>
-  </programme>
-  <programme channel="top-serien" start="20260828153644 +0200" stop="20260828162856 +0200">
-    <title lang="en">Farscape - Verschollen im All</title>
-    <sub-title lang="en">S02 : E34 Intrigen, Macht und Mörder: Teil 2</sub-title>
-    <desc lang="en">Crichton ist immer noch unschlüssig, ob er Prinzessin Katralla heiraten soll. Unterdessen verüben Prinz Clavor und sein Komplize Cargn einen Anschlag auf ihn. Hilfe erhält Crichton von unerwarteter Seite: Ausgerechnet Clavors Verlobte Jena rettet ihm das Leben.</desc>
-    <category lang="en">Filme</category>
-  </programme>
-  <programme channel="top-serien" start="20260828162856 +0200" stop="20260828165931 +0200">
-    <title lang="en">The Tribe - Eine Welt ohne Erwachsene</title>
-    <sub-title lang="en">S01 : E24 Falsches Spiel</sub-title>
-    <desc lang="en">Trudy und Dal werden von den Nomaden merkwürdig herzlich behandelt. Doch die beiden bemerken nichts, zu sehr sind sie mit ihren eigenen Problemen beschäftigt. Dal träumt von einer gemeinsamen Zukunft mit Trudy, aber diese merkt immer deutlicher, dass sie zurück zu ihrer Tochter muss. Susannah erzählt unterdessen von dem bevorstehenden Stammestreffen, auf dem die Stämme friedlich miteinander ins Gespräch kommen und untereinander Handel treiben wollen. Warum lassen die Locos eigentlich die Nomaden in Ruhe, was haben diese zu bieten?</desc>
-    <category lang="en">Filme</category>
   </programme>
   <programme channel="top-serien" start="20260828165931 +0200" stop="20260828173006 +0200">
     <title lang="en">The Tribe - Eine Welt ohne Erwachsene</title>
@@ -93351,18 +92020,6 @@
     <sub-title lang="en">S02 : E16 Robert Ferrante</sub-title>
     <desc lang="en">Ein perfider Mord, um eine drohende Scheidung zu verhindern: 2013 vergiftet Dr. Robert Ferrante seine Frau, die angesehene Neurologin Dr. Autumn Klein, mit Cyanid.</desc>
     <category lang="en">Filme</category>
-  </programme>
-  <programme channel="travelxp-de" start="20260828153013 +0200" stop="20260828160013 +0200">
-    <title lang="en">The Gypsies</title>
-    <sub-title lang="en">S01 : E09 Roadtrip Bandhavgarh</sub-title>
-    <desc lang="en">Wird die Safari von Krisann und Benafsha im Bandhavgarh-Nationalpark ihnen die Möglichkeit bieten, die große gestreifte Katze in ihrer ganzen Pracht zu sehen?</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme channel="travelxp-de" start="20260828160013 +0200" stop="20260828163013 +0200">
-    <title lang="en">Boarding Pass</title>
-    <sub-title lang="en">S01 : E02 Boarding Pass Tromso, Norwegen</sub-title>
-    <desc lang="en">Jamie Lowe erlebt in Tromsø die Küche und Lebensweise der Arktis. Er sieht auch eine der schnellsten Gezeitenströmungen der Welt.</desc>
-    <category lang="en">Lifestyle</category>
   </programme>
   <programme channel="travelxp-de" start="20260828163013 +0200" stop="20260828170013 +0200">
     <title lang="en">Unbound</title>
@@ -94630,10 +93287,6 @@
     <desc lang="en">Vom göttlichen Thikse-Kloster bis zum ruhigen Pangong-See taucht Alex Outhwaite in Leh in das Zen ein.</desc>
     <category lang="en">Lifestyle</category>
   </programme>
-  <programme channel="vevo-pop-de" start="20260828160000 +0200" stop="20260828170000 +0200">
-    <title lang="en">Vevo Pop</title>
-    <category lang="en">Musik</category>
-  </programme>
   <programme channel="vevo-pop-de" start="20260828170000 +0200" stop="20260828180000 +0200">
     <title lang="en">Vevo Pop</title>
     <category lang="en">Musik</category>
@@ -95052,10 +93705,6 @@
   </programme>
   <programme channel="vevo-pop-de" start="20260902010000 +0200" stop="20260902015959 +0200">
     <title lang="en">Vevo Pop</title>
-    <category lang="en">Musik</category>
-  </programme>
-  <programme channel="vevo-schlager-pop-de" start="20260828160000 +0200" stop="20260828170000 +0200">
-    <title lang="en">Vevo Schlager Pop</title>
     <category lang="en">Musik</category>
   </programme>
   <programme channel="vevo-schlager-pop-de" start="20260828170000 +0200" stop="20260828180000 +0200">
@@ -95477,20 +94126,6 @@
   <programme channel="vevo-schlager-pop-de" start="20260902010000 +0200" stop="20260902015959 +0200">
     <title lang="en">Vevo Schlager Pop</title>
     <category lang="en">Musik</category>
-  </programme>
-  <programme channel="weather-spy-new" start="20260828155800 +0200" stop="20260828162800 +0200">
-    <title lang="en">Fight to Survive</title>
-    <sub-title lang="en">S01 : E09 Fight To Survive | Nightmare Canyon Pt. 1</sub-title>
-    <desc lang="en">Justin and Jeremy Harris' weekend decent into a remote Utah canyon becomes a survival nightmare when Justin severely breaks his leg. As night fast approaches and temperatures drop below freezing, how will these two brothers survive?</desc>
-    <category lang="en">Lifestyle</category>
-    <category lang="en">Slow TV</category>
-  </programme>
-  <programme channel="weather-spy-new" start="20260828162800 +0200" stop="20260828165800 +0200">
-    <title lang="en">Fight to Survive</title>
-    <sub-title lang="en">S01 : E11 Fight To Survive | Under the Desert Sun</sub-title>
-    <desc lang="en">Ed Rosenthal set out for a short hike in Joshua Tree National Park, but in the heat of the day he became turned around and lost. His six-day ordeal of survival in blazing temperatures with no food or water is nothing short of miraculous.</desc>
-    <category lang="en">Lifestyle</category>
-    <category lang="en">Slow TV</category>
   </programme>
   <programme channel="weather-spy-new" start="20260828165800 +0200" stop="20260828172742 +0200">
     <title lang="en">Captured: Extreme Weather</title>
@@ -96759,18 +95394,6 @@
     <category lang="en">Lifestyle</category>
     <category lang="en">Slow TV</category>
   </programme>
-  <programme channel="wheels-and-steel-deu" start="20260828151815 +0200" stop="20260828160800 +0200">
-    <title lang="en">Männer und Maschinen II</title>
-    <sub-title lang="en">S02 : E05 Zugtiere auf der Autobahn</sub-title>
-    <desc lang="en">Titan verwandelt starke Laster in echte Schwerlasttiere. Mit zusätzlicher Achse und Umbauten ziehen sie enorme Lasten über die Autobahn.</desc>
-    <category lang="en">Dokumentarfilm</category>
-  </programme>
-  <programme channel="wheels-and-steel-deu" start="20260828160800 +0200" stop="20260828165736 +0200">
-    <title lang="en">Männer und Maschinen II</title>
-    <sub-title lang="en">S02 : E06 Power unter Tage</sub-title>
-    <desc lang="en">In Minen sind die kompakten Maschinen von GHH unverzichtbar. Der Film begleitet den Bau eines Truckloaders, der später in Einzelteilen unter Tage gelangt und dort unter extremen Bedingungen arbeitet.</desc>
-    <category lang="en">Dokumentarfilm</category>
-  </programme>
   <programme channel="wheels-and-steel-deu" start="20260828165736 +0200" stop="20260828175720 +0200">
     <title lang="en">Containerschiff XXL</title>
     <desc lang="en">Ein neu gebautes Containerschiff eröffnet Einblicke in modernste Technik und gewaltige Transportkraft und zeigt in spannenden Bildern, wie visionäre Ingenieure ein Wunder der Seefahrt erschaffen.</desc>
@@ -97452,11 +96075,6 @@
     <desc lang="en">In Lübeck bewegen Hafenarbeiter empfindliche Forstprodukte und schwere Ladung, während Troubleshooter und Fährteams im Minutentakt arbeiten, um Europas größten Fährhafen am Laufen zu halten.</desc>
     <category lang="en">Dokumentarfilm</category>
   </programme>
-  <programme channel="winx-club-de" start="20260828160000 +0200" stop="20260828170000 +0200">
-    <title lang="en">Winx Club TV</title>
-    <category lang="en">Family</category>
-    <category lang="en">Kinder</category>
-  </programme>
   <programme channel="winx-club-de" start="20260828170000 +0200" stop="20260828180000 +0200">
     <title lang="en">Winx Club TV</title>
     <category lang="en">Family</category>
@@ -97981,16 +96599,6 @@
     <title lang="en">Winx Club TV</title>
     <category lang="en">Family</category>
     <category lang="en">Kinder</category>
-  </programme>
-  <programme channel="world-of-free-sports-de" start="20260828153942 +0200" stop="20260828160957 +0200">
-    <title lang="en">WORLD OF FREESPORTS 2026 - WOF 2026 _22_ JACKALOPE Block Party Ventura</title>
-    <desc lang="en">Info not available</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme channel="world-of-free-sports-de" start="20260828160957 +0200" stop="20260828164058 +0200">
-    <title lang="en">WORLD OF FREESPORTS 2026 - WOF 2026 _23_ The Gralloch 2026</title>
-    <desc lang="en">Info not available</desc>
-    <category lang="en">Sport</category>
   </programme>
   <programme channel="world-of-free-sports-de" start="20260828164058 +0200" stop="20260828171122 +0200">
     <title lang="en">WOF Evergreens</title>
@@ -98963,16 +97571,6 @@
     <desc lang="en">Simple Session wurde im Jahr 2000 ins Leben gerufen und hat sich von einem Kleinstadt-Wettbewerb zu einem der größten und renommiertesten BMX- und Skateboard-Wettbewerbe der Welt entwickelt. Die Simple Session 24 kehrt am 24.-25. August in ihre Heimatstadt Tartu zurück.</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme channel="world-poker-tour" start="20260828145901 +0200" stop="20260828160001 +0200">
-    <title lang="en">World Poker Tour: Season 7</title>
-    <desc lang="en">From Las Vegas.</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme channel="world-poker-tour" start="20260828160001 +0200" stop="20260828165701 +0200">
-    <title lang="en">World Poker Tour</title>
-    <desc lang="en">World Poker Tour</desc>
-    <category lang="en">Sport</category>
-  </programme>
   <programme channel="world-poker-tour" start="20260828165701 +0200" stop="20260828180001 +0200">
     <title lang="en">World Poker Tour</title>
     <desc lang="en">World Poker Tour</desc>
@@ -99397,12 +97995,6 @@
   <programme channel="world-poker-tour" start="20260902000001 +0200" stop="20260902020000 +0200">
     <title lang="en">World Poker Tour</title>
     <desc lang="en">World Poker Tour</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme channel="world-surf-league" start="20260828154505 +0200" stop="20260828164505 +0200">
-    <title lang="en">#TourNotes</title>
-    <sub-title lang="en">S01 : E01 #TourNotes</sub-title>
-    <desc lang="en">Take an inside look at the day-to-day of the World Surf League tour.</desc>
     <category lang="en">Sport</category>
   </programme>
   <programme channel="world-surf-league" start="20260828164505 +0200" stop="20260828170005 +0200">
@@ -99865,16 +98457,6 @@
     <sub-title lang="en">S01 : E01 2026 Vivo Rio Pro - Day 2</sub-title>
     <desc lang="en">Day 12 of the 2026 Rio Pro kicks off in Saquarema as top surfers battle powerful waves and early pressure.</desc>
     <category lang="en">Sport</category>
-  </programme>
-  <programme channel="xplore-german" start="20260828153704 +0200" stop="20260828160910 +0200">
-    <title lang="en">Bike Mike: Bodensee - Königssee - Etappe 6: Bad Wiessee - Bad Feilnbach</title>
-    <desc lang="en">Die sechste Etappe unserer ereignisreichen Tour auf dem Bodensee Königssee Radweg</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme channel="xplore-german" start="20260828160910 +0200" stop="20260828164415 +0200">
-    <title lang="en">Bike Mike: Bodensee - Königssee - Etappe 7 und 8: Von Bad Feilnbach über den Chiemsee nach Traunstein</title>
-    <desc lang="en">Die siebte und achte Etappe unserer ereignisreichen Tour auf dem Bodensee Königssee Radweg</desc>
-    <category lang="en">Lifestyle</category>
   </programme>
   <programme channel="xplore-german" start="20260828164415 +0200" stop="20260828171501 +0200">
     <title lang="en">Bike Mike: Bodensee - Königssee - Etappe 9: Von Traunstein zum Königssee</title>
@@ -100726,11 +99308,6 @@
     <desc lang="en">In der ersten Folge von "Die Küsten der Ostsee" besuchen wir Dänemarks Küsten.</desc>
     <category lang="en">Lifestyle</category>
   </programme>
-  <programme channel="yu-gi-oh-new-de" start="20260828160000 +0200" stop="20260828170000 +0200">
-    <title lang="en">Yu-Gi-Oh!</title>
-    <category lang="en">Anime</category>
-    <category lang="en">Unterhaltung</category>
-  </programme>
   <programme channel="yu-gi-oh-new-de" start="20260828170000 +0200" stop="20260828180000 +0200">
     <title lang="en">Yu-Gi-Oh!</title>
     <category lang="en">Anime</category>
@@ -101256,10 +99833,6 @@
     <category lang="en">Anime</category>
     <category lang="en">Unterhaltung</category>
   </programme>
-  <programme channel="zdf-kult-krimi" start="20260828160000 +0200" stop="20260828170000 +0200">
-    <title lang="en">Kultkrimi</title>
-    <category lang="en">Crime</category>
-  </programme>
   <programme channel="zdf-kult-krimi" start="20260828170000 +0200" stop="20260828180000 +0200">
     <title lang="en">Kultkrimi</title>
     <category lang="en">Crime</category>
@@ -101679,14 +100252,6 @@
   <programme channel="zdf-kult-krimi" start="20260902010000 +0200" stop="20260902015959 +0200">
     <title lang="en">Kultkrimi</title>
     <category lang="en">Crime</category>
-  </programme>
-  <programme channel="zee-one-deu" start="20260828154800 +0200" stop="20260828161459 +0200">
-    <title lang="en">Badho Bahu - Schwer verliebt</title>
-    <sub-title lang="en">S01 : E269 Badho Bahu - Schwer verliebt S1 E269</sub-title>
-    <desc lang="en">Die Geschichte der Serie erzählt von einem übergewichtigen Mädchen, das mit Bravour ihre Lebenskämpfe überwindet. 'Choto' entscheidet sich, Teej mit der Familie Bajwa zu feiern, und bringt Lucky und Komal mit in ihr Haus in Punjab. Als Lucky Komal mit kurzen Haaren sieht, sagt er ihr, dass er ihre langen Haare mochte.</desc>
-    <category lang="en">Asian</category>
-    <category lang="en">Bollywood &amp; Tollywood</category>
-    <category lang="en">Unterhaltung</category>
   </programme>
   <programme channel="zee-one-deu" start="20260828161459 +0200" stop="20260828170344 +0200">
     <title lang="en">Doli Armaano Ki - Braut zwischen Liebe und Pflicht</title>
@@ -102934,22 +101499,6 @@
     <category lang="en">Asian</category>
     <category lang="en">Bollywood &amp; Tollywood</category>
     <category lang="en">Unterhaltung</category>
-  </programme>
-  <programme channel="zee-tv" start="20260828153005 +0200" stop="20260828160005 +0200">
-    <title lang="en">Humari Radha</title>
-    <sub-title lang="en">S01 : E29 Humari Radha</sub-title>
-    <desc lang="en">Radha, a devoted woman, moves to Mumbai and values her marriage. Her husband Gary betrays her with Shanaya. She fights for his redemption and to save her marriage.</desc>
-    <category lang="en">Asian</category>
-    <category lang="en">Bollywood &amp; Tollywood</category>
-    <category lang="en">Serien</category>
-  </programme>
-  <programme channel="zee-tv" start="20260828160005 +0200" stop="20260828163005 +0200">
-    <title lang="en">Vasudha</title>
-    <sub-title lang="en">S01 : E665 Vasudha</sub-title>
-    <desc lang="en">Die unbeschwerte Vasudha beginnt als Hausangestellte im Haushalt der Geschäftsfrau Chandrika und sehnt sich trotz ihrer ideologischen Unterschiede nach deren Anerkennung. Wird sie in Chandrikas Welt Akzeptanz finden?</desc>
-    <category lang="en">Asian</category>
-    <category lang="en">Bollywood &amp; Tollywood</category>
-    <category lang="en">Serien</category>
   </programme>
   <programme channel="zee-tv" start="20260828163005 +0200" stop="20260828170005 +0200">
     <title lang="en">Dilo Ki Ram Leela</title>
