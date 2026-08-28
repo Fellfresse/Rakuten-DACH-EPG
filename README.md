@@ -13,9 +13,8 @@ https://raw.githubusercontent.com/Fellfresse/Rakuten-DACH-EPG/master/Rakuten_CH_
 
 ## Update
 28.08.2026
- - Modified generate_*.py based on an idea by BuddyChewChew
-```https://github.com/BuddyChewChew/RakutenTV
-```
+ - Modified generate_*.py based on an idea by **[BuddyChewChew](https://github.com/BuddyChewChew/RakutenTV)**
+
 ## Contributing
 This project needs no contributors other than small QoL changes here and there. With that said, feel free to fork and update for other Rakuten regions.
 
