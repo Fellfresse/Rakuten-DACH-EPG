@@ -1,294 +1,174 @@
-#!/usr/bin/env python3
-"""
-RakutenTV CH — EPG generator
-Fetches programme data from the Rakuten v3/live_channels API and merges
-"""
-
-import hashlib
-import re
-import time
-import unicodedata
-from datetime import datetime, timedelta, timezone
-from urllib.parse import urlencode
-
-import pytz
-import requests
 from lxml import etree
+import requests
+from datetime import datetime, timedelta, time, timezone
+import pytz
+import unicodedata
 
-# ── Configuration ─────────────────────────────────────────────────────────────
-
-TIMEZONE           = pytz.timezone("Europe/Berlin")
-DT_FORMAT          = "%Y%m%d%H%M%S %z"
-GAP_THRESHOLD_SECS = 60
-
-RETRY_ATTEMPTS     = 4
-RETRY_BACKOFF_SECS = 20
-
-API_HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/128.0.0.0 Safari/537.36"
-    ),
-    "Origin": "https://rakuten.tv",
-    "Referer": "https://rakuten.tv/",
-    "Accept": "application/json, text/plain, */*",
-    "Accept-Language": "de-CH,de;q=0.9",
-}
-
-# Values that have historically worked. 250 is now rejected.
-PER_PAGE_CANDIDATES = [100, 50, 25, 20, 15]
+tz = pytz.timezone('Europe/Berlin')
 
 
-# ── Helpers ───────────────────────────────────────────────────────────────────
-
-def remove_control_characters(s: str) -> str:
+def remove_control_characters(s):
     return "".join(ch for ch in s if unicodedata.category(ch)[0] != "C")
 
 
-def normalize(name: str) -> str:
-    return re.sub(r"[^a-z0-9]", "", name.lower())
+def get_days() -> list:
+    now = datetime.now().replace(hour=datetime.now().hour, minute=0, second=0, microsecond=0)
+    day_1 = datetime.combine(datetime.now(), time(0, 0)) + timedelta(1)
+    day_2 = datetime.combine(datetime.now(), time(0, 0)) + timedelta(2)
+    day_3 = datetime.combine(datetime.now(), time(0, 0)) + timedelta(3)
+    day_4 = datetime.combine(datetime.now(), time(0, 0)) + timedelta(4)
+    day_5 = datetime.combine(datetime.now(), time(0, 0)) + timedelta(5)
+    day_6 = datetime.combine(datetime.now(), time(0, 0)) + timedelta(6)
 
+    return [now, day_1, day_2, day_3, day_4, day_5, day_6]
 
-def to_tz_str(val) -> str:
-    if isinstance(val, datetime):
-        dt = val if val.tzinfo else val.replace(tzinfo=timezone.utc)
-    else:
-        dt = datetime.fromtimestamp(val, tz=timezone.utc)
-    return dt.astimezone(TIMEZONE).strftime(DT_FORMAT)
-
-
-def fetch_with_retry(url: str, headers: dict | None = None, timeout: int = 30) -> requests.Response:
-    last_exc = None
-    for attempt in range(1, RETRY_ATTEMPTS + 1):
-        try:
-            resp = requests.get(url, headers=headers or {}, timeout=timeout)
-            if resp.status_code == 503 and attempt < RETRY_ATTEMPTS:
-                print(f"  [attempt {attempt}/{RETRY_ATTEMPTS}] 503, retrying in {RETRY_BACKOFF_SECS}s ...")
-                time.sleep(RETRY_BACKOFF_SECS)
-                continue
-            if 400 <= resp.status_code < 500:
-                print(f"  HTTP {resp.status_code} body: {resp.text[:600]!r}")
-                resp.raise_for_status()
-            resp.raise_for_status()
-            return resp
-        except requests.exceptions.RequestException as exc:
-            last_exc = exc
-            # Don't keep retrying pure 4xx
-            if hasattr(exc, "response") and exc.response is not None and 400 <= exc.response.status_code < 500:
-                break
-            if attempt < RETRY_ATTEMPTS:
-                print(f"  [attempt {attempt}/{RETRY_ATTEMPTS}] {exc}, retrying in {RETRY_BACKOFF_SECS}s ...")
-                time.sleep(RETRY_BACKOFF_SECS)
-    raise last_exc
-
-# ── EPG window ────────────────────────────────────────────────────────────────
-
-def get_epg_window(hours: int = 120):
-    now = datetime.now(timezone.utc).replace(minute=0, second=0, microsecond=0)
-    end = (now + timedelta(hours=hours)).replace(hour=0, minute=0, second=0, microsecond=0)
-    if end <= now:
-        end += timedelta(days=1)
-    return now, end
-
-# ── XMLTV ──────────────────────────────────────────────────────────────────────
 
 def build_xmltv(channels: list, programmes: list) -> bytes:
-    root = etree.Element("tv")
-    root.set("generator-info-name", "Fellfresse")
-    root.set("generator-info",  "EPG/RakutenTV-CH")
+    dt_format = '%Y%m%d%H%M%S %z'
 
+    data = etree.Element("tv")
+    data.set("generator-info-name", "Fellfresse")
+    data.set("generator-info", "EPG/RakutenTV-CH")
     for ch in channels:
-        channel = etree.SubElement(root, "channel")
-        channel.set("id", str(ch["id"]))
-
-        display = etree.SubElement(channel, "display-name")
-        lang = (ch.get("language") or "en").rstrip("s").lower()
-        display.set("lang", lang)
-        display.text = ch["name"]
-
-        if ch.get("icon"):
-            icon = etree.SubElement(channel, "icon")
-            icon.set("src", ch["icon"])
-            icon.text = ""
-
+        channel = etree.SubElement(data, "channel")
+        channel.set("id", str(ch.get("id")))
+        name = etree.SubElement(channel, "display-name")
+        name.set("lang", ch.get("language", "de")[:-1].lower() if ch.get("language") else "de")
+        name.text = ch.get("name")
+        if ch.get("icon") is not None:
+            icon_src = etree.SubElement(channel, "icon")
+            icon_src.set("src", ch.get("icon"))
+            icon_src.text = ''
     for pr in programmes:
-        prog = etree.SubElement(root, "programme")
-        prog.set("channel", str(pr["channel_id"]))
-        prog.set("start",   to_tz_str(pr["starts_at"]))
-        prog.set("stop",    to_tz_str(pr["ends_at"]))
+        programme = etree.SubElement(data, 'programme')
+        start_time = datetime.fromtimestamp(pr.get('starts_at'), tz).strftime(dt_format).strip()
+        end_time = datetime.fromtimestamp(pr.get('ends_at'), tz).strftime(dt_format).strip()
 
-        title = etree.SubElement(prog, "title")
-        title.set("lang", "en")
-        title.text = pr["title"]
+        programme.set("channel", str(pr.get('channel_id')))
+        programme.set("start", start_time)
+        programme.set("stop", end_time)
 
-        if pr.get("subtitle"):
-            sub = etree.SubElement(prog, "sub-title")
-            sub.set("lang", "en")
-            sub.text = remove_control_characters(pr["subtitle"])
+        title = etree.SubElement(programme, "title")
+        title.set('lang', 'de')
+        title.text = pr.get("title")
 
-        if pr.get("description"):
-            desc = etree.SubElement(prog, "desc")
-            desc.set("lang", "en")
-            desc.text = remove_control_characters(pr["description"])
+        if pr.get("subtitle") is not None:
+            subtitle = etree.SubElement(programme, "sub-title")
+            subtitle.set('lang', 'de')
+            subtitle.text = remove_control_characters(pr.get("subtitle"))
 
-        if pr.get("tags"):
-            for tag in pr["tags"]:
-                cat = etree.SubElement(prog, "category")
-                cat.set("lang", "en")
-                cat.text = tag.get("name", "")
+        if pr.get('description') is not None:
+            description = etree.SubElement(programme, "desc")
+            description.set('lang', 'de')
+            description.text = remove_control_characters(pr.get("description"))
 
-    return etree.tostring(root, pretty_print=True, encoding="utf-8")
+        if pr.get('tags') is not None:
+            if len(pr.get('tags')) > 0:
+                category = etree.SubElement(programme, "category")
+                category.set('lang', 'de')
+                for tag in pr.get('tags'):
+                    category.text = tag.get("name")
 
-# ── API helpers ───────────────────────────────────────────────────────────────
-
-def build_api_url(epg_start, epg_end, per_page: int, page: int = 1,
-                  include_timestamps: bool = True) -> str:
-    params = {
-        "classification_id": "319",
-        "device_identifier": "web",
-        "device_stream_audio_quality": "2.0",
-        "device_stream_hdr_type": "NONE",
-        "device_stream_video_quality": "FHD",
-        "epg_duration_minutes": "360",
-        "epg_ends_at": epg_end.strftime("%Y-%m-%dT%H:%M:%S.000Z"),
-        "epg_starts_at": epg_start.strftime("%Y-%m-%dT%H:%M:%S.000Z"),
-        "locale": "de",
-        "market_code": "ch",
-        "per_page": str(per_page),
-        "page": str(page),
-    }
-    if include_timestamps:
-        params["epg_ends_at_timestamp"] = str(int(epg_end.timestamp()))
-        params["epg_starts_at_timestamp"] = str(int(epg_start.timestamp()))
-
-    return "https://gizmo.rakuten.tv/v3/live_channels?" + urlencode(params)
+    return etree.tostring(data, pretty_print=True, encoding='utf-8')
 
 
-def fetch_one_page(epg_start, epg_end, per_page: int, page: int,
-                   include_timestamps: bool) -> list:
-    url = build_api_url(epg_start, epg_end, per_page, page, include_timestamps)
-    resp = fetch_with_retry(url, headers=API_HEADERS)
-    data = resp.json().get("data") or []
-    return data
+days = get_days()
 
+url = "https://gizmo.rakuten.tv/v3/live_channels"
 
-def fetch_epg_data() -> list:
-    """
-    Try different per_page values and window sizes until something works.
-    Also paginates so we still get the full channel list.
-    """
-    strategies = [
-        {"hours": 120, "timestamps": True, "label": "120h + timestamps"},
-        {"hours": 96, "timestamps": True, "label": "96h + timestamps"},
-        {"hours": 72, "timestamps": True, "label": "72h + timestamps"},
-        {"hours": 72, "timestamps": False, "label": "72h (dates only)"},
-        {"hours": 48, "timestamps": True,  "label": "48h + timestamps"},
-        {"hours": 24, "timestamps": False, "label": "24h (dates only)"},
-    ]
+base_params = {
+    "classification_id": "319",
+    "device_identifier": "web",
+    "device_stream_audio_quality": "2.0",
+    "device_stream_hdr_type": "NONE",
+    "device_stream_video_quality": "FHD",
+    "epg_duration_minutes": "360",
+    "epg_ends_at": days[-1].strftime('%Y-%m-%dT%H:%M:%S.000Z'),
+    "epg_ends_at_timestamp": int(days[-1].timestamp()),
+    "epg_starts_at": days[0].strftime('%Y-%m-%dT%H:%M:%S.000Z'),
+    "epg_starts_at_timestamp": int(days[0].timestamp()),
+    "locale": "de",
+    "market_code": "ch",
+    "per_page": "25"
+}
 
-    last_exc = None
+headers = {
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+    "Accept": "application/json, text/plain, */*",
+    "Origin": "https://rakuten.tv",
+    "Referer": "https://rakuten.tv/"
+}
 
-    for strat in strategies:
-        for per_page in PER_PAGE_CANDIDATES:
-            epg_start, epg_end = get_epg_window(hours=strat["hours"])
-            print(f"\nTrying: {strat['label']}, per_page={per_page}")
-            print(f"  window: {epg_start.isoformat()} → {epg_end.isoformat()}")
+print("Grabbing data")
 
-            try:
-                all_channels = []
-                page = 1
-                while True:
-                    chunk = fetch_one_page(
-                        epg_start, epg_end, per_page, page, strat["timestamps"]
-                    )
-                    if not chunk:
-                        break
-                    all_channels.extend(chunk)
-                    print(f"  page {page}: +{len(chunk)} channels (total {len(all_channels)})")
-                    # Stop when we receive fewer than requested (last page)
-                    if len(chunk) < per_page:
-                        break
-                    page += 1
-                    # Safety limit
-                    if page > 10:
-                        break
+json = []
+page = 1
 
-                if all_channels:
-                    print(f"  ✓ Success — retrieved {len(all_channels)} channels")
-                    return all_channels
-                else:
-                    print("  empty data array")
-            except Exception as exc:
-                last_exc = exc
-                print(f"  ✗ Failed: {exc}")
-                continue
+while True:
+    params = base_params.copy()
+    params["page"] = str(page)
+    
+    res = requests.get(url, params=params, headers=headers)
+    if res.status_code != 200:
+        print(f"Server response ({res.status_code}): {res.text}")
+        raise ConnectionError(f"HTTP{res.status_code}: could not get info from server!")
 
-    raise RuntimeError(
-        "All EPG fetch strategies failed. Last error: " + str(last_exc)
-    ) from last_exc
+    page_data = res.json().get('data', [])
+    if not page_data:
+        break
 
+    json.extend(page_data)
+    print(f"Loading JSON {page} ({len(page_data)} channels)")
+    page += 1
 
-# ── Main ──────────────────────────────────────────────────────────────────────
+print(f"\nRetrieved {len(json)} channels:")
 
-def main():
+channels_data = []
+programme_data = []
 
-    print("\nFetching EPG data from Rakuten API ...")
-    data = fetch_epg_data()
-    print(f"\nRetrieved {len(data)} channels\n")
+for channel in json:
+    ch_name = channel['title']
+    print(ch_name)
+    ch_number = channel['channel_number']
+    ch_id = channel['id']
+    
+    images = channel.get('images') or {}
+    ch_icon = images.get('artwork_negative') or images.get('artwork')
+    
+    labels = channel.get('labels') or {}
+    languages = labels.get('languages') or []
+    ch_language = languages[0].get('id') if languages else "de"
+    ch_tags = labels.get('tags')
+    
+    channels_data.append({
+        "name": ch_name,
+        "epg_number": ch_number,
+        "id": ch_id,
+        "icon": ch_icon,
+        "language": ch_language,
+        "tags": ch_tags
+    })
+    
+    programmes_list = channel.get('live_programs', [])
+    for item in programmes_list:
+        title = item['title']
+        subtitle = item.get('subtitle')
+        description = item.get('description')
+        start = datetime.strptime(item['starts_at'], '%Y-%m-%dT%H:%M:%S.000%z').timestamp()
+        end = datetime.strptime(item['ends_at'], '%Y-%m-%dT%H:%M:%S.000%z').timestamp()
 
-    channels_data  = []
-    programme_data = []
+        programme_data.append({
+            "title": title,
+            "subtitle": subtitle,
+            "description": description,
+            "starts_at": start,
+            "ends_at": end,
+            "channel_id": ch_id,
+            "language": ch_language,
+            "tags": ch_tags,
+        })
 
-    for channel in data:
-        ch_name = channel["title"]
-        ch_id   = channel["id"]
-        print(f"  {ch_name}")
+channel_xml = build_xmltv(channels_data, programme_data)
 
-        ch_icon = None
-        if channel.get("images"):
-            imgs = channel["images"]
-            ch_icon = imgs.get("artwork_negative") or imgs.get("artwork")
-
-        ch_language = ch_tags = None
-        if channel.get("labels"):
-            labels = channel["labels"]
-            langs  = labels.get("languages")
-            if langs:
-                ch_language = langs[0].get("id")
-            ch_tags = labels.get("tags")
-
-        for item in channel.get("live_programs", []):
-            programme_data.append({
-                "title":       item["title"],
-                "subtitle":    item.get("subtitle"),
-                "description": item.get("description"),
-                "starts_at":   datetime.strptime(item["starts_at"], "%Y-%m-%dT%H:%M:%S.000%z"),
-                "ends_at":     datetime.strptime(item["ends_at"],   "%Y-%m-%dT%H:%M:%S.000%z"),
-                "channel_id":  ch_id,
-                "language":    ch_language,
-                "tags":        ch_tags,
-            })
-
-    # Normalise end times
-    programme_data.sort(key=lambda p: (p["channel_id"], p["starts_at"]))
-    by_channel = {}
-    for p in programme_data:
-        by_channel.setdefault(p["channel_id"], []).append(p)
-
-    for plist in by_channel.values():
-        for i in range(len(plist) - 1):
-            cur, nxt = plist[i], plist[i + 1]
-            if nxt["starts_at"] <= cur["ends_at"]:
-                cur["ends_at"] = nxt["starts_at"]
-            elif (nxt["starts_at"] - cur["ends_at"]).total_seconds() <= GAP_THRESHOLD_SECS:
-                cur["ends_at"] = nxt["starts_at"]
-
-    with open("Rakuten_CH_epg.xml", "wb") as f:
-        f.write(build_xmltv(channels_data, programme_data))
-    print("\nWrote ch_epg.xml")
-
-if __name__ == "__main__":
-    main()
-
-
+with open('Rakuten_CH_epg.xml', 'wb') as f:
+    f.write(channel_xml)
