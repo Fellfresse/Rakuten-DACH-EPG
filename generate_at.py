@@ -17,8 +17,10 @@ def get_days() -> list:
     day_2 = datetime.combine(datetime.now(), time(0, 0)) + timedelta(2)
     day_3 = datetime.combine(datetime.now(), time(0, 0)) + timedelta(3)
     day_4 = datetime.combine(datetime.now(), time(0, 0)) + timedelta(4)
+    day_5 = datetime.combine(datetime.now(), time(0, 0)) + timedelta(5)
+    day_6 = datetime.combine(datetime.now(), time(0, 0)) + timedelta(6)
 
-    return [now, day_1, day_2, day_3, day_4]
+    return [now, day_1, day_2, day_3, day_4, day_5, day_6]
 
 
 def build_xmltv(channels: list, programmes: list) -> bytes:
@@ -97,7 +99,7 @@ headers = {
     "Referer": "https://rakuten.tv/"
 }
 
-print("Grabbing data")
+print("-> Grabbing data")
 
 json = []
 page = 1
@@ -108,7 +110,7 @@ while True:
     
     res = requests.get(url, params=params, headers=headers)
     if res.status_code != 200:
-        print(f"Server response ({res.status_code}): {res.text}")
+        print(f"⚠️ Server response ({res.status_code}): {res.text}")
         raise ConnectionError(f"HTTP{res.status_code}: could not get info from server!")
 
     page_data = res.json().get('data', [])
@@ -116,10 +118,10 @@ while True:
         break
 
     json.extend(page_data)
-    print(f"Loading JSON {page} ({len(page_data)} channels)")
+    print(f"-> Loading JSON {page} ({len(page_data)} channels)")
     page += 1
 
-print(f"\nRetrieved {len(json)} channels:")
+print(f"\n✅ Retrieved {len(json)} channels:")
 
 channels_data = []
 programme_data = []
