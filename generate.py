@@ -17,7 +17,9 @@ def get_days() -> list:
     day_2 = datetime.combine(datetime.now(), time(0, 0)) + timedelta(2)
     day_3 = datetime.combine(datetime.now(), time(0, 0)) + timedelta(3)
     day_4 = datetime.combine(datetime.now(), time(0, 0)) + timedelta(4)
-    return [now, day_1, day_2, day_3, day_4]
+    day_5 = datetime.combine(datetime.now(), time(0, 0)) + timedelta(5)
+
+    return [now, day_1, day_2, day_3, day_4, day_5]
 
 
 def build_xmltv(channels: list, programmes: list) -> bytes:
@@ -25,12 +27,12 @@ def build_xmltv(channels: list, programmes: list) -> bytes:
 
     data = etree.Element("tv")
     data.set("generator-info-name", "Fellfresse")
-    data.set("generator-info", "EPG/RakutenTV-DE")
+    data.set("generator-info", "EPG/RakutenTV-UK")
     for ch in channels:
         channel = etree.SubElement(data, "channel")
         channel.set("id", str(ch.get("id")))
         name = etree.SubElement(channel, "display-name")
-        name.set("lang", ch.get("language", "de")[:-1].lower() if ch.get("language") else "de")
+        name.set("lang", ch.get("language", "en")[:-1].lower() if ch.get("language") else "en")
         name.text = ch.get("name")
         if ch.get("icon") is not None:
             icon_src = etree.SubElement(channel, "icon")
@@ -46,23 +48,23 @@ def build_xmltv(channels: list, programmes: list) -> bytes:
         programme.set("stop", end_time)
 
         title = etree.SubElement(programme, "title")
-        title.set('lang', 'de')
+        title.set('lang', 'en')
         title.text = pr.get("title")
 
         if pr.get("subtitle") is not None:
             subtitle = etree.SubElement(programme, "sub-title")
-            subtitle.set('lang', 'de')
+            subtitle.set('lang', 'en')
             subtitle.text = remove_control_characters(pr.get("subtitle"))
 
         if pr.get('description') is not None:
             description = etree.SubElement(programme, "desc")
-            description.set('lang', 'de')
+            description.set('lang', 'en')
             description.text = remove_control_characters(pr.get("description"))
 
         if pr.get('tags') is not None:
             if len(pr.get('tags')) > 0:
                 category = etree.SubElement(programme, "category")
-                category.set('lang', 'de')
+                category.set('lang', 'en')
                 for tag in pr.get('tags'):
                     category.text = tag.get("name")
 
@@ -134,7 +136,7 @@ for channel in json:
     
     labels = channel.get('labels') or {}
     languages = labels.get('languages') or []
-    ch_language = languages[0].get('id') if languages else "de"
+    ch_language = languages[0].get('id') if languages else "en"
     ch_tags = labels.get('tags')
     
     channels_data.append({
