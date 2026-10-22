@@ -36,8 +36,8 @@ jobs:
       - name: execute py script
         run: python generate_ch.py
         
-#      - name: execute py script
-#        run: python generate_at.py
+      - name: execute py script
+        run: python generate_at.py
         
       - name: commit files
         run: |
