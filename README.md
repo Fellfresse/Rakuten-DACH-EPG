@@ -1,13 +1,19 @@
-[![Build EPG](https://github.com/dp247/rakuten-uk-epg/actions/workflows/actions.yml/badge.svg)](https://github.com/dp247/rakuten-uk-epg/actions/workflows/actions.yml)
+[![Build EPG](https://github.com/Fellfresse/Rakuten-DACH-EPG/actions/workflows/actions.yml/badge.svg)](https://github.com/Fellfresse/Rakuten-DACH-EPG/actions/workflows/actions.yml)
 
 ## About
-Provides a 72-hour XMLTV EPG for Rakuten UK's TV service, which is updated automatically every 8 hours.
+XMLTV EPG for Rakuten DACH TV service
 
 ## Usage
 Grab the XMLTV file from this link and paste it into your favorite IPTV client:
 ```
-https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml
+https://raw.githubusercontent.com/Fellfresse/Rakuten-DACH-EPG/master/Rakuten_DE_epg.xml
+https://raw.githubusercontent.com/Fellfresse/Rakuten-DACH-EPG/master/Rakuten_AT_epg.xml
+https://raw.githubusercontent.com/Fellfresse/Rakuten-DACH-EPG/master/Rakuten_CH_epg.xml
 ```
+
+## Update
+28.08.2026
+ - Modified generate_*.py based on an idea by **[BuddyChewChew](https://github.com/BuddyChewChew/RakutenTV)**
 
 ## Contributing
 This project needs no contributors other than small QoL changes here and there. With that said, feel free to fork and update for other Rakuten regions.
