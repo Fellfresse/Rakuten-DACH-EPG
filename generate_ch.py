@@ -88,7 +88,7 @@ base_params = {
     "epg_starts_at_timestamp": int(days[0].timestamp()),
     "locale": "de",
     "market_code": "ch",
-    "per_page": "20"
+    "per_page": "25"
 }
 
 headers = {
