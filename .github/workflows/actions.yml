@@ -1,7 +1,7 @@
 name: Build EPG
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+#env:
+#  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
 
 on:
   schedule:
