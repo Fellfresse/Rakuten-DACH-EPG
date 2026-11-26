@@ -8,7 +8,9 @@ on:
     - cron: '30 */8 * * *'
   push:
   workflow_dispatch:
-
+  pull_request:
+    types:
+      - synchronize
 jobs:
   build:
     runs-on: ubuntu-latest
